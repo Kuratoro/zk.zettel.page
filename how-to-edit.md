@@ -2,6 +2,8 @@
 title: How to edit this site
 ---
 
+TODO: Explain in more detail.
+
 To edit a page,
 
 1. First create a GitHub account
