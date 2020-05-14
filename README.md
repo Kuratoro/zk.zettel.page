@@ -4,4 +4,4 @@ title: reddit.zettel.page
 
 Experimental stuff
 
-Index: </z-index.html>
+Index: <https://reddit.zettel.page/z-index.html>
