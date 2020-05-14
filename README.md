@@ -1,4 +1,7 @@
-# reddit.zettel.page
+---
+title: reddit.zettel.page
+---
+
 Experimental stuff
 
-Index: https://reddit.zettel.page/z-index.html
+Index: </z-index.html>
