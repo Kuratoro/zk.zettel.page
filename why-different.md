@@ -3,4 +3,4 @@ title: Why is it different from regular notes?
 date: 2020-05-14
 ---
 
-* <a98aa649> 
+* <types-of-notes>

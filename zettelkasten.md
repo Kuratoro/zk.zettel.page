@@ -5,8 +5,8 @@ date: 2020-05-14
 
 Zettelkasten is a smart note taking system created by a German sociologist, whose productivity increased to epic proportions due to it.
 
-* <8fab924f> <-- how to easily tell what the file names are?
-* <cf2bf03f> 
-* <6b49b23b> 
-* <5b6e266e> 
+* <what-is-it> <-- how to easily tell what the file names are?
+* <what-does-it-do>
+* <why-different>
+* <how-to-implement>
 

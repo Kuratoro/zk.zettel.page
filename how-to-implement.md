@@ -3,5 +3,5 @@ title: How to implement
 date: 2020-05-14
 ---
 
-* <75a85123> 
-* <f4798200> 
+* <software-list>
+* <software-comparison>
