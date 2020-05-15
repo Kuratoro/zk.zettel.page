@@ -1,4 +1,4 @@
 ---
-title: How to Navigate
+title: How to navigate
 ---
 
