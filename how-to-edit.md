@@ -2,43 +2,44 @@
 title: How to edit this site
 ---
 
-TODO: Explain in more detail (summarize the documentation for Neuron - both technical(short version) and layperson's terms?)
-- PR
-- YAML
-- linking files
-- Simple Markdown guide
+## Editing pages
+1. Create a [GitHub](https://github.com/) account if you do not already have one. You will need this in order to edit this Zettelkasten.
+    - Your GitHub will also allow us to give you the necessary rights in the future.
+1. In order to edit a zettel, navigate to its footer at the bottom and click the edit icon (paper and pencil). It will you take to GitHub wherein you can make the edits, and create what is known as a "PR" (pull request). 
+1. When a PR is created /u/srid- or /u/EyebrowHairs will "accept" it
+1. Once accepted, the site is updated within a minute.
 
-To edit a page,
+If you are a frequent editor, we can even give you access, so that step 3 & 4 are obviated.
 
-1. If you don't already have one, create a GitHub account.
-2. Go to a zettel page you wish to edit, and click the edit icon below.
-3. Edit, and save (PR).
 
-To create a new page,
+## Creating new pages
 
 1. Go to the repository: <https://github.com/srid/reddit.zettel.page>
 2. Click the "Create new file" button
-3. Add the title of the zettel between two `---` lines. (the YAML metadata).
+3. Copy the paste the following template
 
-## Template for Metadata
+### Template for new zettels
 
-```yml
+Note: in the metadata, `title` is required; but `date` and `tags` are optional.
+
+```markdown
 ---
 title:
-date:
-tags:
 ---
+
+Hello world!
 ```
 
 ## How to Link to Other Zettel
 
 Linking to a file within a Zettel indicates that it is branching off from it. Backlinks are automatically shown on the web browser. 
 
+See [Neuron documentation](https://neuron.zettel.page/2011504.html) on how to link between zettels.
 ```markdown
-* <file-name.md> --> this will show the link in the Zettel
-<file-name.md>  --> this will not be shown in the Zettel but will be shown as linked (EDIT: Hmm, it worked last time but I guess not)
-
+* <file-name.md> -- This links to the zettel "file-name.md"
 ```
+
 ## Markdown Guidelines
 
-* The title of the Zettel will be a first level heading.
+* Full list of features supported [here](https://neuron.zettel.page/2011404.html)
+* To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the zettel title.
