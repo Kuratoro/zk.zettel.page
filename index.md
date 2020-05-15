@@ -2,13 +2,13 @@
 title: r/Zettelkasten
 ---
 
-## Welcome to the Public Zettelkasten for r/Zettelkasten!
+## Welcome to the Public Zettelkasten for [r/Zettelkasten](https://old.reddit.com/r/Zettelkasten/)!
 
-Subreddit: https://www.reddit.com/r/Zettelkasten/
+Subreddit: <https://www.reddit.com/r/Zettelkasten/>
 
-This Zettelkasten is hosted by [/u/srid](https://www.reddit.com/user/srid-/) on [Github](https://github.com/srid/reddit.zettel.page) and is currently editable by anyone with a Github account. 
+This Zettelkasten is hosted by [/u/srid-](https://www.reddit.com/user/srid-/) on [Github](https://github.com/srid/reddit.zettel.page) and is currently editable by anyone with a Github account. 
 
-(Technical info: This site is managed by /u/srid's software called [Neuron](https://neuron.zettel.page/), which was originally developed for CLI's) --> how to better word this...?
+(Technical info: This site is managed by /u/srid-'s software called [Neuron](https://neuron.zettel.page/), which was originally developed for CLI's) --> how to better word this...?
 
 Benefits:
 * open to editing
