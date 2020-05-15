@@ -4,11 +4,11 @@ date: 2020-05-14
 ---
 
 
-Below is a handy chart comparing the different software out there that can be used to implement the ZK method.
+Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handle list, see <software-list?cf>.
 
 Please add data to help community members choose their ideal ZK software!
 
-**PLEASE READ**: There is a public table that can be edited more more easily. Link: https://ethercalc.org/ix8bg39wsrca. Please send a modmail after making any additions or changes so that it can be saved to the Google Sheets version. Here is the [link](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679) to that for viewing only. The reason for this is because Google is not available in some areas of the world and we want everyone to be able to participate. Thanks in advance for your contributions!
+**PLEASE READ**: There is a public table that can be edited more more easily. Link: <https://ethercalc.org/ix8bg39wsrca>. Please send a modmail after making any additions or changes so that it can be saved to the Google Sheets version. Here is the [link](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679) to that for viewing only. The reason for this is because Google is not available in some areas of the world and we want everyone to be able to participate. Thanks in advance for your contributions!
 
 ## Table
 
