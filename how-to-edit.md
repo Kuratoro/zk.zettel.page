@@ -35,7 +35,7 @@ Linking to a file within a Zettel indicates that it is branching off from it. Ba
 
 ```markdown
 * <file-name.md> --> this will show the link in the Zettel
-<file-name.md>  --> this will not be shown in the Zettel but will be shown as linked
+<file-name.md>  --> this will not be shown in the Zettel but will be shown as linked (EDIT: Hmm, it worked last time but I guess not)
 
 ```
 
