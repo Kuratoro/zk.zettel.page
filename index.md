@@ -1,21 +1,22 @@
 ---
-title: r/Zettelkasten
+title: r/Zettelkasten Notes
 ---
 
-## Welcome to the Public Zettelkasten for [r/Zettelkasten](https://reddit.com/r/Zettelkasten/)!
+**Welcome to the Public Zettelkasten for [r/Zettelkasten](https://reddit.com/r/Zettelkasten/)!**
 
 Subreddit: <https://www.reddit.com/r/Zettelkasten/>
 
 This Zettelkasten is hosted by [/u/srid-](https://www.reddit.com/user/srid-/) on [Github](https://github.com/srid/reddit.zettel.page) and is currently editable by anyone with a Github account. 
 
-(Technical info: This site is managed by /u/srid-'s software called [Neuron](https://neuron.zettel.page/), which was originally developed for CLI's) --> how to better word this...?
+(Technical info: This site is managed by /u/srid-'s software called [Neuron](https://neuron.zettel.page/), which is normally used from the command line with a text editor; however you can also edit this site directly GitHub)
 
 Benefits:
-* open to editing
-* automatic indexing
-* search function
-* taggable
-* looks nice 🙂
+* Anyone can edit
+* Full revision history in [git](https://github.com/srid/reddit.zettel.page)
+* Category Tree view in the index
+* Search function
+* Notes can be tagged
+* Nice looking site
 
 ### Get started
 
