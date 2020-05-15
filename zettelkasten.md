@@ -15,11 +15,7 @@ Although it can have many applications, the version that is mainly discussed in 
 
 Luhmann's Zettelkasten consisted of wooden boxes containing over 60,000 notes written on small slips of paper.
 
-<<<<<<< HEAD
 * <what-is-it>
-=======
-* <what-is-it> 
->>>>>>> 60c1bf1359b506f2cbea5e998e6c26286af30aa5
 * <what-does-it-do>
 * <why-different>
 * <how-to-implement>

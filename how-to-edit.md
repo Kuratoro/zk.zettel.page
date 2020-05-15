@@ -50,12 +50,6 @@ Example: This is an example of a link using an <example.md> note.
 * Notes (specific to Neuron)
   *  The title of the Zettel will be a first level heading.
   *  URL's must be enclosed in angle brackets to be formatted as a link `<url-example>`
-=======
-* <file-name.md> -- This links to the zettel "file-name.md"
-```
-
-## Markdown Guidelines
-
-* Full list of features supported [here](https://neuron.zettel.page/2011404.html)
+* `<file-name.md>` -- This links to the zettel "file-name.md"
+* Full list of features supported by neuron, [see here](https://neuron.zettel.page/2011404.html)
 * To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the zettel title.
->>>>>>> 88840cfa2c42915d2ef67c212299a9b2c202456b
