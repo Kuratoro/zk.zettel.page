@@ -6,6 +6,7 @@ TODO: Explain in more detail (summarize the documentation for Neuron - both tech
 - PR
 - YAML
 - linking files
+- Simple Markdown guide
 
 To edit a page,
 
@@ -38,4 +39,6 @@ Linking to a file within a Zettel indicates that it is branching off from it. Ba
 <file-name.md>  --> this will not be shown in the Zettel but will be shown as linked (EDIT: Hmm, it worked last time but I guess not)
 
 ```
+## Markdown Guidelines
 
+* The title of the Zettel will be a first level heading.
