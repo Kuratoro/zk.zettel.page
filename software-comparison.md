@@ -12,52 +12,11 @@ Please add data to help community members choose their ideal ZK software!
 
 ## Table
 
-See column header descriptions below the table.
+<iframe 
+  style="width:100%; height:50em;"
+  src="https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit?usp=sharing&embedded=true&rm=demo">
+</iframe>
 
-Note: data placeholders are abbreviations of column headers to make it easier to fill in the data when editing the table in Markdown.
-
-{.overflows .collapsing .compact}
-Name|Platforms|Cost|License|File Storage|File Format|Visualization|Auto Backlink|Reference|MD Editor|Auto Note ID|Auto Note Link|Auto Tag|Custom Templates|YAML|WYSIWYG|Clickable Links|Search
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-[Atom](https://atom.io/) + [Atom Notes](https://atom.io/packages/atom-notes)| MacOS 10.9+, Windows 7+, Linux (RH or Ubuntu flavors)| Free | MIT | Local | Markdown | None | No | None | Yes | Note title | Yes | No | No | None | Yes with additional plugin | Yes | Fuzzy Search 
-[Atom](https://atom.io/) + [Linkist](https://atom.io/packages/linkist)| MacOS 10.9+, Windows 7+, Linux (RH or Ubuntu flavors) | Free | MIT | Local | Markdown or Plain text | None | No | None | Yes | other non-customizable | Yes? | No | No | None | Yes with additional plugin | No | ID search 
-[Bear](https://bear.app/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Boostnote.io](https://boostnote.io/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[ConnectedText](https://connectedtext.com/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[DEVONThink]| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-| [Emacs](https://www.gnu.org/software/emacs/) + [neuron-mode](https://github.com/felko/neuron-mode) (designed to work with [Neuron](https://neuron.srid.ca/)) | Linux, macOS, Windows (using WSL) | free | open source | local | plain text | structured index | yes | no | yes | customizable (default: date/time) | yes | no | yes (using YASnippet) | no | no | yes | yes |
-[Emacs](https://www.gnu.org/software/emacs/) + [Org Mode](https://orgmode.org/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Emacs](https://www.gnu.org/software/emacs/) + [Org-roam](https://github.com/jethrokuan/org-roam)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Emacs](https://www.gnu.org/software/emacs/) + [Org-zettelkasten](https://github.com/l3kn/org-zettelkasten)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Emacs](https://www.gnu.org/software/emacs/) + [Zetteldeft](https://github.com/EFLS/zetteldeft)| Linux, macOs, Windows | free | GGPLv3 | local | any plain text | linked network | no | no | yes | customizable | yes | no | no | no | no | yes | simple text 
-[Evernote]| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Idea Stew (Tiddlywiki fork)](https://giffmex.org/gifts/ideastew.html)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Mindforger](https://www.mindforger.com/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Neuron](https://neuron.srid.ca/) (Needs editor) | Linux, OS X, Windows | Free | Open Source | Local | Plain Text | Structured index | Yes | No | N/A | ANID, Date-based, and custom IDs | N/A | Yes (hierarchical tags) | N/A | Yaml metadata block | N/A | N/A | Fuzzy search 
-[Notable.md](https://notable.md/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Notion](https://www.notion.so/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[nvALT](https://brettterpstra.com/projects/nvalt/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[nvpy](https://github.com/cpbotha/nvpy)| OS X, Linux, Windows | Free | Open Source | both (Simplenote) | plain text | none | no | no | no | no | yes | yes (custom tags) | no | no | no | yes, same window | simple text/regex 
-[QOwnNotes](https://www.qownnotes.org/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Roam](https://roamresearch.com/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[SlipBox](http://tabi-software.com/slipbox/)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Sublime Text] + [Sublime ZK](https://github.com/renerocksai/sublime_zk)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Sublimeless Zettelkasten](https://github.com/renerocksai/sublimeless_zk)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[The Archive](https://zettelkasten.de/the-archive/)| OS X | $ | L | local | plain text | none | no | no | yes | no (but hotkey for date/time ID generation) | no | no | no | yes | yes | yes | fuzzy 
-[TheBrain](https://www.thebrain.com)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Tiddlywiki](https://tiddlywiki.com/)| Web/self-hosted | free | open source | local | plain text | Network with TiddlyMap | Yes | No | As plugin | None | Yes | Yes | Yes | No, own property format| No | No | Simple text 
-[Trilium](https://github.com/zadam/trilium)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Typora](https://typora.io/) + Github | Windows, OS X, Linux, web (Github) | free (BETA) | Proprietary | local | plain text | No | No | No | No | Yes | No | No | No | No | Yes | Yes | Simple text 
-[VS Code](https://code.visualstudio.com/) + [Memorize](https://gitlab.com/memorize_it/memorize)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[VS Code](https://code.visualstudio.com/) + [Mzettel](https://github.com/monferrand/mzettel)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[VS Code](https://code.visualstudio.com/) + [VS Code Markdown Notes](https://github.com/kortina/vscode-markdown-notes)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[VS Code](https://code.visualstudio.com/) + [Zettelkasten](https://github.com/nergal-perm/zettelkasten-vscode)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Vim](https://www.vim.org/) + [Vim-Zettel](https://github.com/michal-h21/vim-zettel)| Win/*nix | Free | Open Source | Local/Cloud | plain-text | none | Yes | No | yes | date+time+count or date+time+title or date+time | Yes | No | Yes | N/A | no | Yes | complex boolean and fuzzy search w/ Ag, vimgrep, fzf 
-[Vim](https://www.vim.org/) + [Notoire]| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Zettel](https://github.com/bolt12/zettel)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Zettelkasten 3 (aka zkn3)](http://zettelkasten.danielluedecke.de/en/index.php)| P | $ | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S 
-[Zettlr](https://www.zettlr.com/)| Linux, OSX, Win | Free | L | FS | FF | V | AB | R | MD | ANID | ANL | AT | CT | YAML | WYSIWYG | CL | S
-[zk](https://github.com/AndrewCopeland/zettelkasten) | OSX | Free | Open Source | Local/Cloud | Plain-Text | None | Yes | No | Optional | yes (EPOCH) | ?? | No | No | yes | Optional | Yes (Links using github.com) | Fuzzy
 
 ## Criteria
 
