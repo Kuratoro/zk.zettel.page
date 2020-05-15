@@ -3,7 +3,7 @@ title: Zettelkasten
 date: 2020-05-14
 ---
 
-# Welcome to the Public Zettelkasten for r/Zettelkasten!
+## Welcome to the Public Zettelkasten for r/Zettelkasten!
 
 What is it? 🤔
 
