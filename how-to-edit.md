@@ -20,7 +20,7 @@ If you are a frequent editor, we can even give you access, so that step 3 & 4 ar
 
 **Tip**: It helps to have the list of all the file names handy in case you want to link to any of them.
 
-### Template for new zettels
+### Template for new Zettel
 
 Note: in the metadata, `title` is required; but `date` and `tags` are optional.
 
