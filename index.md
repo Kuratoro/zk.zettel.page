@@ -2,7 +2,7 @@
 title: r/Zettelkasten
 ---
 
-## Welcome to the Public Zettelkasten for [r/Zettelkasten](https://old.reddit.com/r/Zettelkasten/)!
+## Welcome to the Public Zettelkasten for [r/Zettelkasten](https://reddit.com/r/Zettelkasten/)!
 
 Subreddit: <https://www.reddit.com/r/Zettelkasten/>
 
