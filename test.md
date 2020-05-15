@@ -2,8 +2,8 @@
 title: test again
 ---
 
-<books>
-* <articles>
-<examples>
-*<contact>
-<forums>
+<books?cf>
+* <articles?cf>
+<examples?cf>
+*<contact?cf>
+<forums?cf>
