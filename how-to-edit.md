@@ -18,6 +18,8 @@ If you are a frequent editor, we can even give you access, so that step 3 & 4 ar
 2. Click the "Create new file" button
 3. Copy the paste the following template
 
+**Tip**: It helps to have the list of all the file names handy in case you want to link to any of them.
+
 ### Template for new zettels
 
 Note: in the metadata, `title` is required; but `date` and `tags` are optional.
@@ -52,4 +54,4 @@ Example: This is an example of a link using an <example.md> note.
   *  URL's must be enclosed in angle brackets to be formatted as a link `<url-example>`
 * `<file-name.md>` -- This links to the zettel "file-name.md"
 * Full list of features supported by neuron, [see here](https://neuron.zettel.page/2011404.html)
-* To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the zettel title.
+* To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the Zettel title.
