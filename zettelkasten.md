@@ -3,9 +3,7 @@ title: Zettelkasten
 date: 2020-05-14
 ---
 
-## Welcome to the Public Zettelkasten for r/Zettelkasten!
-
-What is it? 🤔
+## What is it? 🤔
 
 **Zettelkasten** is German for 'slip box' or 'card index'.
 
@@ -16,8 +14,6 @@ Although it can have many applications, the version that is mainly discussed in 
 [^1]:https://luhmann.surge.sh/communicating-with-slip-boxes
 
 Luhmann's Zettelkasten consisted of wooden boxes containing over 60,000 notes written on small slips of paper.
-
-This Zettelkasten is hosted by [/u/srid](https://www.reddit.com/user/srid-/) on Github and is currently editable by anyone with a Github account. 
 
 * <what-is-it> <-- how to easily tell what the file names are?
 * <what-does-it-do>
