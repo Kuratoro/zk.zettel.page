@@ -5,7 +5,7 @@
 , siteBaseUrl =
     Some "https://reddit.zettel.page"
 , theme =
-    "grey"
+    "orange"
 , editUrl =
     Some "https://github.com/srid/reddit.zettel.page/edit/master/"
 , mathJaxSupport =

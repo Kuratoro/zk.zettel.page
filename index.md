@@ -6,7 +6,7 @@ title: r/Zettelkasten Notes
 
 Subreddit: <https://www.reddit.com/r/Zettelkasten/>
 
-This Zettelkasten is hosted by [/u/srid-](https://www.srid.ca) on [Github](https://github.com/srid/reddit.zettel.page) and is currently editable by anyone with a Github account. 
+This Zettelkasten is hosted by [/u/srid-](https://www.srid.ca) on [Github](https://github.com/srid/reddit.zettel.page) and is currently editable by anyone with a Github account (see <how-to-edit?cf>). 
 
 (Technical info: This site is managed by /u/srid-'s open source software called [Neuron](https://neuron.zettel.page/), which is normally used from the command line with a text editor; however you can also edit this site directly GitHub)
 
