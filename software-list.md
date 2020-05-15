@@ -20,7 +20,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Fast
     * Can publish notes on web
 
-## [Neuron](https://neuron.srid.ca/) -- Zettelkasten in Haskell
+## [Neuron](https://neuron.zettel.page/) -- Zettelkasten in Haskell
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
 * Note storage: Markdown
 * Why would you choose Neuron:
