@@ -10,7 +10,7 @@ Please add data to help community members choose their ideal ZK software!
 ## Table
 
 <iframe 
-  style="width:100%; height:75em;"
+  style="width:100%; height:50em;"
   src="https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit?usp=sharing&embedded=true&rm=demo">
 </iframe>
 
