@@ -8,7 +8,7 @@ Below is a handy chart comparing the different software out there that can be us
 
 Please add data to help community members choose their ideal ZK software!
 
-**PLEASE READ**: There is a public table that can be edited. Link: <https://ethercalc.org/ix8bg39wsrca>. Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact](<contact>) us after making any additions or changes so that it can be saved to the Google Sheets version (displayed below). 
+**PLEASE READ**: There is a public table that can be edited. Link: <https://ethercalc.org/ix8bg39wsrca>. Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact](<contact?cf>) us after making any additions or changes so that it can be saved to the Google Sheets version (displayed below). 
 
 Here is the [link](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679) to the Google Sheets version for viewing only. 
 

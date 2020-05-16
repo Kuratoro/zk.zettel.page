@@ -42,6 +42,8 @@ See [Neuron documentation](https://neuron.zettel.page/2011504.html) on how to li
 <file-name.md> --> this will show the link in the Zettel
 ```
 
+* `<file-name.md>` -- This links to the zettel "file-name.md"
+
 Example: This is an example of a link using an <example.md> note.
 
 ## Markdown Guidelines
@@ -50,8 +52,8 @@ Example: This is an example of a link using an <example.md> note.
 * Notes in this Zettelkasten should be formatted in Markdown.
 * Link to a basic Markdown [primer](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Notes (specific to Neuron)
-  *  The title of the Zettel will be a first level heading.
-  *  URL's must be enclosed in angle brackets to be formatted as a link `<url-example>`
-* `<file-name.md>` -- This links to the zettel "file-name.md"
-* Full list of features supported by neuron, [see here](https://neuron.zettel.page/2011404.html)
-* To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the Zettel title.
+  * The title of the Zettel will be a first level heading.
+  * URL's must be enclosed in angle brackets to be formatted as a link `<url-example>`
+  * To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the Zettel title.
+* Full list of features supported by Neuron, [see here](https://neuron.zettel.page/2011404.html)
+

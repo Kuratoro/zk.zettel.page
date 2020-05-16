@@ -11,7 +11,7 @@ Currently maintaining this project:
   
 
 * **EyebrowHairs**, subreddit moderator
-    * [Modmail](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit.
+    * [Modmail](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit
     * Email: eyebrowhairs.red@gmail.com
 
 ---
