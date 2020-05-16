@@ -3,6 +3,8 @@ title: Community
 date: 2020-05-14
 ---
 
-<examples>
+Find other people on the web
 
-<forums>
+* <examples> - take at look at what others are doing with their Zettelkasten
+
+* <forums> - view and participate in discussions about the Zettelkasten system

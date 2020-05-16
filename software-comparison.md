@@ -3,24 +3,24 @@ title: Software comparison
 date: 2020-05-14
 ---
 
-
 Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handy list, see <software-list?cf>.
 
 Please add data to help community members choose their ideal ZK software!
 
-**PLEASE READ**: There is a public table that can be edited. Link: <https://ethercalc.org/ix8bg39wsrca>. Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact](<contact?cf>) us after making any additions or changes so that it can be saved to the Google Sheets version (displayed below). 
-
-Here is the [link](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679) to the Google Sheets version for viewing only. 
-
-The reason we are using this editing method is because Google is not available in some areas of the world and we want everyone to be able to participate. Thanks in advance for your contributions!
-
 ## Table
 
 <iframe 
-  style="width:100%; height:50em;"
+  style="width:100%; height:75em;"
   src="https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit?usp=sharing&embedded=true&rm=demo">
 </iframe>
 
+## Editing the table
+
+Here is the [link](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679) to the Google Sheets version of the table that can be edited. 
+
+There is a second table that can be edited if you cannot access Google. Link: <https://ethercalc.org/ix8bg39wsrca>. Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact](<contact?cf>) us after making any additions or changes to the second table so that it can be synced to the Google Sheets version (displayed below). You may also contact us if you would like to view the most updated version of the table.
+
+Thanks in advance for your contributions!
 
 ## Criteria
 
