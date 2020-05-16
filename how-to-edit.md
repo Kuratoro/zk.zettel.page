@@ -40,7 +40,6 @@ Linking to a file within a Zettel indicates that it is branching off from it. Ba
 
 See [Neuron documentation](https://neuron.zettel.page/2011504.html) on how to link between zettels.
 ```markdown
-<<<<<<< HEAD
 <file-name.md> --> this will show the link in the Zettel
 ```
 
