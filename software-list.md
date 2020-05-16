@@ -16,11 +16,11 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
 * Note storage: Markdown
 * Why would you choose Neuron:
-    * Open source
-    * Statically generated web interface
-    * Graph view of Zettels
-    * Built on Pandoc, with note-linking support
-    * Use from command line with any editor
+  * Open source
+  * Statically generated web interface
+  * Graph view of Zettels
+  * Built on Pandoc, with note-linking support
+  * Use from command line with any editor
 
 
 ## [Passfindr](https://passfindr.com) -- Security and Productivity
