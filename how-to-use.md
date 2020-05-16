@@ -8,4 +8,4 @@ date: 2020-05-14
 
 <navigation>
 
-<contact>
+<contact?cf>
