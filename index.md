@@ -15,7 +15,7 @@ This Zettelkasten is hosted by [/u/srid-](https://www.srid.ca) on [Github](https
 * Category Tree view in the [index](z-index.html)
 * [Search](search.html) function
 * Notes can be tagged
-* Looks good!
+* Looks pretty good!
 
 ### Get started
 
