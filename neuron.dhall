@@ -1,5 +1,5 @@
 { siteTitle =
-    "r/Zettelkasten Notes"
+    "r/Zettelkasten's Zettelkasten"
 , author =
     None Text
 , siteBaseUrl =
