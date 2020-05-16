@@ -28,7 +28,7 @@ Note: in the metadata, `title` is required; but `date` and `tags` are optional.
 
 ```markdown
 ---
-title:
+title: Our first zettel
 ---
 
 Hello world!
