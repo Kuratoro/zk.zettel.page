@@ -8,6 +8,7 @@ Currently maintaining this project:
 * **Srid**, the technical mastermind
   * [Reddit](https://www.reddit.com/user/srid-/)
   * Website: <https://www.srid.ca/>
+  
 
 * **EyebrowHairs**, subreddit moderator
     * [Modmail](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit.

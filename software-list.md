@@ -10,15 +10,7 @@ Note that it is likely that the tool you use doesn't really matter all that much
 
 Source: This is collected from [this discussion thread](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/). The discussion also lists lot of other tools by name.
 
-## [Passfindr](https://passfindr.com) -- Security and Productivity
-* Platform: Android, Web
-* Note storage: Plain Text/Rich text
-* Why would you choose Passfindr:
-    * Can encrypt notes
-    * Plain text notes without templates. You can
-        design each note however you wish.
-    * Fast
-    * Can publish notes on web
+## Software (ordered alphabetically)
 
 ## [Neuron](https://neuron.zettel.page/) -- Zettelkasten in Haskell
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
@@ -30,6 +22,18 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Command line use
     * Snappy ID format.
 
+
+## [Passfindr](https://passfindr.com) -- Security and Productivity
+* Platform: Android, Web
+* Note storage: Plain Text/Rich text
+* Why would you choose Passfindr:
+    * Can encrypt notes
+    * Plain text notes without templates. You can
+        design each note however you wish.
+    * Fast
+    * Can publish notes on web
+
+
 ## [Roam Research](https://roamresearch.com) -- A Note taking tool for networked thought
 * Platform: Web
 * Note storage: Markdown
@@ -38,6 +42,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Automatic backlinks
     * Super easy creation of zettels.
     * Encourages taking Daily Notes
+
 
 ## [TiddlyWiki](https://tiddlywiki.com) -- A Non-linear personal web notebook
 * Platform: Web browser (self-hosted)
@@ -49,14 +54,18 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Can typeset math
     * Network graph for exploring notes
 
-## [Zettlr](https://zettlr.com) -- A Markdown Editor for 21st Century
-* Platform: Linux, Windows, OS X 
-* Note storage: plain text/markdown
-* Why would you choose Zettlr?
-    * Integrates with literature managers like Zotero and JabRef. Easy
-      citations
-    * Heatmap search
-    * Good language support
+
+## [Trilium Notes](https://github.com/zadam/trilium)
+* Platform: Linux, Windows, OS X
+* Note storage: SQLite + HTML
+* Why would you use Trilium Notes?
+    * Fully offline, but sync server (which is also full web app) can be setup to synchronize multiple clients
+    * Strong encryption of "protected notes"
+    * Auto back linking and visualization of relationships between notes
+    * It's relatively easy to script the app with custom behavior
+    * Automatic versioning of the notes
+    * Exports to a nice directory hierarchy with MD/HTML file per note
+  
 
 ## [Vim-Zettel](https://github.com/michal-h21/vim-zettel) -- Zettelkasten in VIM
 * Platform: Linux, Windows, OS X, maybe others
@@ -69,15 +78,12 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * External links
     * Link verification
 
-## [Trilium Notes](https://github.com/zadam/trilium)
-* Platform: Linux, Windows, OS X
-* Note storage: SQLite + HTML
-* Why would you use Trilium Notes?
-    * Fully offline, but sync server (which is also full web app) can be setup to synchronize multiple clients
-    * Strong encryption of "protected notes"
-    * Auto back linking and visualization of relationships between notes
-    * It's relatively easy to script the app with custom behavior
-    * Automatic versioning of the notes
-    * Exports to a nice directory hierarchy with MD/HTML file per note
 
-
+## [Zettlr](https://zettlr.com) -- A Markdown Editor for 21st Century
+* Platform: Linux, Windows, OS X 
+* Note storage: plain text/markdown
+* Why would you choose Zettlr?
+    * Integrates with literature managers like Zotero and JabRef. Easy
+      citations
+    * Heatmap search
+    * Good language support
