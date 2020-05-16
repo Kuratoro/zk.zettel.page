@@ -18,5 +18,6 @@ Here are some general guidelines:
 
 * This pane displays all the links connected to the note:
   * Down - all the notes branching from the note
-  * Up - all the notes that the note links from
-  * Other backlinks - relevant notes that are not related through branching
+  * Automatic backlinking:
+    * Up - all the notes which branch to the note
+    * Other backlinks - relevant notes that are not related through branching
