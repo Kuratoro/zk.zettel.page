@@ -5,10 +5,12 @@ date: 2020-05-14
 
 Currently maintaining this project:
 
-* Srid, the technical one!
+* **Srid**, the technical mastermind
+  * [Reddit](https://www.reddit.com/user/srid-/)
+  * Website: <https://www.srid.ca/>
 
-* EyebrowHairs, subreddit moderator
-    * [PM](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit.
+* **EyebrowHairs**, subreddit moderator
+    * [Modmail](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit.
     * Email: eyebrowhairs.red@gmail.com
 
 ---
