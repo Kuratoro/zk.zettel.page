@@ -12,7 +12,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 
 ## Software (ordered alphabetically)
 
-## [Neuron](https://neuron.zettel.page/) -- Zettelkasten in Haskell
+## [Neuron](https://neuron.zettel.page/) -- Zettelkasten - plain-text and editor-independent
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
 * Note storage: Markdown
 * Why would you choose Neuron:
