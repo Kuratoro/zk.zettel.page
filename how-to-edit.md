@@ -45,7 +45,7 @@ See [Neuron documentation](https://neuron.zettel.page/2011504.html) on how to li
 
 * `<file-name>` -- This links to the zettel "file-name.md"
 
-Example: This is an example of a link using an <examples> note.
+Example: This is an example of a link using an <examples?cf> note.
 
 ## Markdown Guidelines
 
