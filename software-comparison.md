@@ -5,8 +5,6 @@ date: 2020-05-14
 
 Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handy list, see <software-list?cf>.
 
-Please add data to help community members choose their ideal ZK software!
-
 ## Table
 
 <iframe 
@@ -16,11 +14,19 @@ Please add data to help community members choose their ideal ZK software!
 
 ## Editing the table
 
-Here is the [link](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679) to the Google Sheets version of the table that can be edited. 
+Please add data to help community members choose their ideal ZK software!
 
-There is a second table that can be edited if you cannot access Google. Link: <https://ethercalc.org/ix8bg39wsrca>. Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact](<contact?cf>) us after making any additions or changes to the second table so that it can be synced to the Google Sheets version (displayed below). You may also contact us if you would like to view the most updated version of the table.
+* Here is the link to the Google Sheets version of the table that can be edited:
 
-Thanks in advance for your contributions!
+[Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
+
+* There is a second table that can be edited if you cannot access Google. 
+
+[EtherCalc](https://ethercalc.org/ix8bg39wsrca) 
+
+  * Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact](<contact?cf>) us after making any additions or changes to the second table so that it can be synced to the Google Sheets version (displayed below). You may also contact us if you would like to view the most updated version of the table.
+
+Thank you in advance for your contributions!
 
 ## Criteria
 
