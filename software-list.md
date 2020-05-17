@@ -53,7 +53,9 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 ### [Roam Research](https://roamresearch.com) -- A Note taking tool for networked thought
 * Platform: Web
 * Note storage: Markdown
-* Video: <https://www.youtube.com/watch?v=ljyo_WAJevQ>
+* Videos
+  *  <https://www.youtube.com/watch?v=ljyo_WAJevQ>
+  *  Playlist: <https://www.youtube.com/playlist?list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve>
 * Why would you choose Roam Research?
     * Top of the line in creating and following links
     * Automatic backlinks
