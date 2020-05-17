@@ -12,7 +12,17 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 
 ## Software (ordered alphabetically)
 
-## [Neuron](https://neuron.zettel.page/) -- Zettelkasten - plain-text and editor-independent
+### DEVONthink
+* Videos
+  *  <https://www.youtube.com/watch?v=nx6JhJH7du0.>
+  *  <https://www.youtube.com/watch?v=lvDuVG6J3Xk>
+
+### Emacs
+* Videos
+  * Zetteldeft: <https://www.youtube.com/watch?v=azOPZGO2vso>
+  * Orgmode: <https://www.youtube.com/watch?v=UWB6ZABRVq0>
+
+### [Neuron](https://neuron.zettel.page/) -- Zettelkasten - plain-text and editor-independent
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
 * Note storage: Markdown
 * Why would you choose Neuron:
@@ -22,8 +32,14 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
   * Built on Pandoc, with note-linking support
   * Use from command line with any editor
 
+### Notion
+* Video: <https://www.youtube.com/watch?v=e2tttUPGlB8>
 
-## [Passfindr](https://passfindr.com) -- Security and Productivity
+### nvALT
+* Video: <https://www.youtube.com/watch?v=jgZOMN5KfTE>
+
+
+### [Passfindr](https://passfindr.com) -- Security and Productivity
 * Platform: Android, Web
 * Note storage: Plain Text/Rich text
 * Why would you choose Passfindr:
@@ -34,9 +50,10 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Can publish notes on web
 
 
-## [Roam Research](https://roamresearch.com) -- A Note taking tool for networked thought
+### [Roam Research](https://roamresearch.com) -- A Note taking tool for networked thought
 * Platform: Web
 * Note storage: Markdown
+* Video: <https://www.youtube.com/watch?v=ljyo_WAJevQ>
 * Why would you choose Roam Research?
     * Top of the line in creating and following links
     * Automatic backlinks
@@ -44,7 +61,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Encourages taking Daily Notes
 
 
-## [TiddlyWiki](https://tiddlywiki.com) -- A Non-linear personal web notebook
+### [TiddlyWiki](https://tiddlywiki.com) -- A Non-linear personal web notebook
 * Platform: Web browser (self-hosted)
 * Note storage: Single HTML file
 * Why would you choose TiddlyWiki
@@ -54,8 +71,10 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Can typeset math
     * Network graph for exploring notes
 
+### The Archive
+* Video: <https://www.youtube.com/watch?v=JHuuoYMsYI4>
 
-## [Trilium Notes](https://github.com/zadam/trilium)
+### [Trilium Notes](https://github.com/zadam/trilium)
 * Platform: Linux, Windows, OS X
 * Note storage: SQLite + HTML
 * Why would you use Trilium Notes?
@@ -67,7 +86,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Exports to a nice directory hierarchy with MD/HTML file per note
   
 
-## [Vim-Zettel](https://github.com/michal-h21/vim-zettel) -- Zettelkasten in VIM
+### [Vim-Zettel](https://github.com/michal-h21/vim-zettel) -- Zettelkasten in VIM
 * Platform: Linux, Windows, OS X, maybe others
 * Note storage: plain text/markdown/wikiformat
 * Why would you use Vim-Zettel?
@@ -79,9 +98,10 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Link verification
 
 
-## [Zettlr](https://zettlr.com) -- A Markdown Editor for 21st Century
+### [Zettlr](https://zettlr.com) -- A Markdown Editor for 21st Century
 * Platform: Linux, Windows, OS X 
 * Note storage: plain text/markdown
+* Video: <https://www.youtube.com/watch?v=vStbtF4_grE>
 * Why would you choose Zettlr?
     * Integrates with literature managers like Zotero and JabRef. Easy
       citations
