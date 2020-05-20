@@ -9,4 +9,4 @@ There are several differences including:
 
 * <types-of-notes> - The types of notes you include within it
 * The way you write the notes
-* ???
+* The emphasis is on linking notes/ideas together
