@@ -8,11 +8,10 @@ Here are some general guidelines:
 
 ## Buttons
 
-* All the navigation buttons are at the bottom of the page. From left to right:
-  * Home - takes you back to the homepage
+* All the navigation buttons are at the top left of the page (on mobile, they are at the bottom). From left to right (or left to right, on mobile):
+  * Z-Index - displays all the notes in clusters
   * Edit - takes you to the Github source page where you can edit the note you're on
   * Search - takes you to the search page
-  * Z-Index - displays all the notes in clusters
 
 ## Navigating nearby zettels
 
