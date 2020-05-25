@@ -7,7 +7,7 @@
 , theme =
     "orange"
 , editUrl =
-    Some "https://github.com/srid/reddit.zettel.page/edit/master/"
+    Some "https://github.com/Kuratoro/reddit.zettel.page/edit/master/"
 , mathJaxSupport =
     True
 }

@@ -5,7 +5,7 @@ title: How to edit this site
 ## Edit existing pages
 1. Create a [GitHub](https://github.com/) account if you do not already have one. You will need this in order to edit this Zettelkasten.
     - Your GitHub will also allow us to give you the necessary rights in the future.
-1. In order to edit a zettel, navigate to its footer at the bottom and click the edit icon (paper and pencil). 
+1. In order to edit a zettel, click the edit icon (paper and pencil) in the top left side of a zettel (bottom, on mobile). 
    1. It will you take to GitHub wherein you can make the edits, and create what is known as a "PR" (pull request).
    1. See [complete walkthrough of this process here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository).
 1. When a PR is created /u/srid- or /u/EyebrowHairs will "accept" it
