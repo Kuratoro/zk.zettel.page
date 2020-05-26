@@ -6,7 +6,7 @@ date: 2020-05-14
 There are numerous digital Zettelkasten programs available. This note collects
 links and pointers for choosing the right one. For comparision, see <software-comparison?cf>.
 
-Note that it is likely that the tool you use doesn't really matter all that much. The original Zettelkasten was a huge stack of paper slips and even that worked great. There is one case where the choice of the tool has a huge impact, namely the case where the tool you use is discontinued. To avoid being left with a stack of 5000 notes that you can no longer access, prefer tools that export/save to common formats.
+Note that it is likely that the tool you use doesn't really matter all that much. The original Zettelkasten was a huge stack of paper slips and even that worked great. There is one case where the choice of the tool has a huge impact, namely the case where the tool you use is discontinued. To avoid being left with a stack of 5000 notes that you can no longer access, prefer tools that export/save to common formats, like txt files.
 
 Source: This is collected from [this discussion thread](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/). The discussion also lists lot of other tools by name.
 

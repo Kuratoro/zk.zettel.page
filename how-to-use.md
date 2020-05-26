@@ -4,8 +4,8 @@ date: 2020-05-14
 ---
 
 
-<how-to-edit>
+<how-to-edit> - how to contribute to this Zettelkasten
 
-<navigation>
+<navigation> - how to find your way around
 
-<contact?cf>
+<contact?cf> - contact us with your questions/comments/etc.

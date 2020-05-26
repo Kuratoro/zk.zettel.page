@@ -32,5 +32,3 @@ Luhmann's Zettelkasten consisted of wooden boxes containing over 60,000 notes wr
 
 * <examples?cf> - Explore what others are doing with their Zettelkasten
 * <forums?cf> - Discuss and ask questions about the method
-
-
