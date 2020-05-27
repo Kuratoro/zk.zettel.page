@@ -21,8 +21,8 @@ This <zettelkasten> is hosted by [/u/srid-](https://www.reddit.com/user/srid-) o
 
 Check out <how-to-use> for more information on how to navigate through the notes, as well as how to edit and add notes.
 
-<div class="ui message">
-Get started by checking out <zettelkasten> or go to the [index](https://reddit.zettel.page/z-index.html) to see all the notes.
+<div class="ui message" markdown="1">
+    Get started by checking out <zettelkasten> or go to the [index](https://reddit.zettel.page/z-index.html) to see all the notes.
 </div>
 
 Test.
