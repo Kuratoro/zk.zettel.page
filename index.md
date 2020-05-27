@@ -23,6 +23,6 @@ Check out <how-to-use> for more information on how to navigate through the notes
 
 <div class="ui message">
 
-<p>Get started by checking out <zettelkasten> or go to the <a href="https://reddit.zettel.page/z-index.html">index</a> to see all the notes.</p>
+Get started by checking out <zettelkasten> or go to the [index](https://reddit.zettel.page/z-index.html) to see all the notes.
 
 </div>
