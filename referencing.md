@@ -23,7 +23,7 @@ Methods include: downloading a reference manager, or creating a note for each re
 
 - you can quickly add references if you know the ISBN, DOI, PMID, or arXiv IDs:
 
-![zotero-add-new](images/zotero-add-new.png)
+![zotero-add-new](./images/zotero-add-new.png)
 
 - you can download a [browser extension](https://www.zotero.org/download/) that can add and auto-populate fields
 
@@ -34,5 +34,5 @@ Methods include: downloading a reference manager, or creating a note for each re
   - simply link to this note as needed
 
 [^1]: - ex. LastnameFirst3(Relevant)WordsYear
-  - full title: How to take smart notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers, by Sönke Ahrens, 2017
-  - citation key: **AhrensHowTakeSmart2017**
+    - full title: How to take smart notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers, by Sönke Ahrens, 2017
+    - citation key: **AhrensHowTakeSmart2017**
