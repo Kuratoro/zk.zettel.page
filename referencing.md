@@ -11,7 +11,7 @@ Methods include: downloading a reference manager, or creating a note for each re
 - a reference manager will make formatting these types of references much easier (ex. APA, MLA, Chicago styles)
 - a citation key[^1] may be generated, so you can copy and search for the exact reference used
 - an app like [Zettlr](https://docs.zettlr.com/en/academic/citations/) can even integrate with reference managers by using BibTex libraries
-- you may still want to keep a separate folder of literature notes (see <types-of-notes>)
+- you may still want to keep a separate folder of literature notes (see <types-of-notes?cf>)
 
 ### Reference Managers
 
