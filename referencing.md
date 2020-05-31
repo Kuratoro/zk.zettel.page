@@ -2,6 +2,8 @@
 title: Referencing
 date: 2020-05-30
 ---
+You collected a whole bunch of articles and resources while reading, now, how can you organize them all?
+
 To organize your references, you may consider including a reference management system into your workflow.
 
 Methods include: downloading a reference manager, or creating a note for each reference.
@@ -33,6 +35,4 @@ Methods include: downloading a reference manager, or creating a note for each re
   - title each note/filename as a citation key[^1]
   - simply link to this note as needed
 
-[^1]: - ex. LastnameFirst3(Relevant)WordsYear
-    - full title: How to take smart notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers, by Sönke Ahrens, 2017
-    - citation key: **AhrensHowTakeSmart2017**
+[^1]: An example of a citation key is **AhrensHowTakeSmart2017**, from the book *How to take smart notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers*, by Sönke Ahrens, 2017. The template for this key is: **LastnameFirst3(Relevant)WordsYear**
