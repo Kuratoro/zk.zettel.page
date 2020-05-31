@@ -29,7 +29,7 @@ Methods include: downloading a reference manager, or creating a note for each re
 
 ## Other options
 - if you don't want to deal with a reference manager you can create your own system of managing them:
-  - keep a separate folder with 'reference notes' - these can even be combined with literature notes (see <types-of-notes>)
+  - keep a separate folder with 'reference notes' - these can even be combined with literature notes (see <types-of-notes?cf>)
   - title each note/filename as a citation key[^1]
   - simply link to this note as needed
 
