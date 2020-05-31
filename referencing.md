@@ -23,7 +23,7 @@ Methods include: downloading a reference manager, or creating a note for each re
 
 - you can quickly add references if you know the ISBN, DOI, PMID, or arXiv IDs:
 
-![zotero-add-new](./images/zotero-add-new.png)
+![zotero-add-new](./static/images/zotero-add-new.png)
 
 - you can download a [browser extension](https://www.zotero.org/download/) that can add and auto-populate fields
 
