@@ -14,7 +14,7 @@ date: 2020-05-14
 #### 2. Literature notes
 - these are created for a specific resource, such as a book, article, web page, etc.
 - notes are taken specifically on the content
-- these notes are typically filed separately from your [permanent](#3-permanent-notes) notes, such as with your <referencing> system. 
+- these notes are typically filed separately from your [permanent notes](#3-permanent-notes), such as with your <referencing> system. 
 
 ##### Guidelines
 - be selective, rewrite it in your own words and make sure you understand the concept (or follow up on it if you don't at first)
