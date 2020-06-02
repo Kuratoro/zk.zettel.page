@@ -5,6 +5,10 @@ date: 2020-05-22
 
 ## Articles (ordered by date)
 
+Wikipedia article
+:  added 2020
+:  [link](https://en.wikipedia.org/wiki/Zettelkasten)
+
 The Zettelkasten Method: How to (Really) Take Smart Notes
 :  Al from Improveism, 2020
 :  [link](https://improveism.com/zettelkasten-smart-notes/) 
