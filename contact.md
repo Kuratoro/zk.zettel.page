@@ -10,8 +10,8 @@ Currently maintaining this project:
   * Website: <https://www.srid.ca/>
   
 
-* **EyebrowHairs**, subreddit moderator
-    * [Modmail](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit
+* **EyebrowHairs**, moderator
+    * Send a [modmail](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit
     * Email: eyebrowhairs.red@gmail.com
 
 ---
