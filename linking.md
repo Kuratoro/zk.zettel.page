@@ -1,5 +1,5 @@
 ---
-title: Linking Zettel
+title: Linking
 date: 2020-05-31
 ---
 
