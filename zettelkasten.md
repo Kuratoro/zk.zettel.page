@@ -3,7 +3,7 @@ title: Zettelkasten
 date: 2020-05-14
 ---
 
-## What is it? 🤔
+## What is it? 
 
 **Zettelkasten** is German for 'slip box' or 'card index'.
 
@@ -31,5 +31,7 @@ Luhmann's Zettelkasten consisted of wooden boxes containing over 60,000 notes wr
 
 ### Community
 
-* <examples?cf> - Explore what others are doing with their Zettelkasten
-* <forums?cf> - Discuss and ask questions about the method
+<community> resources:
+
+* <examples> - Explore what others are doing with their Zettelkasten
+* <forums> - Discuss and ask questions about the method
