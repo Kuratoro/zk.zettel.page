@@ -54,7 +54,7 @@ Now that you know what a Zettelkasten is, what exactly goes into it?
 
 ## Resources
 
-Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace. (also see <books> for further reading)
+Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace. (also see <books?cf> for further reading)
 
 [^1]: The principle of atomicity: <https://www.zettelkasten.de/posts/create-zettel-from-reading-notes/>
 
