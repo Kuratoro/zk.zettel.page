@@ -33,7 +33,7 @@ Now that you know what a Zettelkasten is, what exactly goes into it?
 
 ### 3. Permanent notes
 - once you have an idea to add to your Zettelkasten, you are ready to create permanent notes (Zettel)
-- **<linking>** is a key component of creating your Zettelkasten
+- **<linking?cf>** is a key component of creating your Zettelkasten
   - every time you add a new Zettel, look through your previous notes and ask yourself:
     - is this relevant to my research/thoughts/interests?
     - how can I develop or add to existing ideas/arguments/discussions?
