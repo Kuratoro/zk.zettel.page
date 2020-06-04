@@ -4,6 +4,10 @@ title: Videos
 
 ## General videos (arranged by date)
 
+* [Organize Your Knowledge with Zettelkasten](https://youtu.be/XUltI4v_UU4) - trms, 2020, 8 min
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XUltI4v_UU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [Zettelkasten Learning Method: Simply Explained](https://www.youtube.com/watch?v=rOSZOCoqOo8.) - Shu Omi, 2020, 4 min
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rOSZOCoqOo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
