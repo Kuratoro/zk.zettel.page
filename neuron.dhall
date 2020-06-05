@@ -1,4 +1,4 @@
-{ siteTitle = "r/Zettelkasten's Zettelkasten"
+{ siteTitle = "Zettelkasten @ zettel.page"
 , author = None Text
 , siteBaseUrl = Some "https://www.zettel.page"
 , theme = "orange"
