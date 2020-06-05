@@ -6,9 +6,9 @@ title:  Zettelkasten @ zettel.page
 **This is a public Zettelkasten serving as a resource for the Zettelkasten system!**
 
 ### About
-The idea for this public Zettelkasten arose via the [r/Zettelkasten](https://reddit.com/r/Zettelkasten/) subreddit.
+The idea for this public <zettelkasten> arose via the [r/Zettelkasten](https://reddit.com/r/Zettelkasten/) subreddit.
 
-This <zettelkasten> is hosted by [/u/srid-](https://www.reddit.com/user/srid-) on Github ([source](https://github.com/Kuratoro/www.zettel.page)) and is currently editable by anyone with a Github account (see <how-to-edit?cf>). 
+It is hosted by [/u/srid-](https://www.reddit.com/user/srid-) on Github ([source](https://github.com/Kuratoro/www.zettel.page)) and is currently editable by anyone with a Github account (see <how-to-edit?cf>). 
 
 (Technical info: This site is managed by /u/srid-'s open source software called [Neuron](https://neuron.zettel.page/), which is normally used from the command line with a text editor; however you can also edit this site directly on GitHub).
 
