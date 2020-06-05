@@ -1,5 +1,5 @@
 ---
-title: r/Zettelkasten's Zettelkasten
+title:  Zettelkasten @ zettel.page
 ---
 
 ## Welcome
