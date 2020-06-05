@@ -9,7 +9,7 @@ Some, or all of the basic principles of the Zettelkasten system can be applied t
 
 ### IDs and linking
 
-Assigning unique IDs to other types of files to promote easier linking. Instead of copying the filepath to a file (which can be broken if you move the file), assign a unique ID and link to or mention it in the note. Search for the ID in your file explorer, and find your desired file.
+Assigning unique IDs to other types of files to promote easier linking. Instead of copying the filepath to a file (which can be broken if you move the file), assign a unique ID and link to or mention it in the note. Search for the ID in your file explorer, and find your desired file.[^id]
 
 ### Permanent notes
 
@@ -28,3 +28,5 @@ Tiago Forte's [PARA system](https://fortelabs.co/blog/para/) describes an altern
 Wiki's
 
 Digital gardens - a collection of curated notes made available to the public. A cross between a personal blog and a Zettelkasten-like note system.
+
+[^id]: File names can change, unique IDs don't: https://zettelkasten.de/posts/add-identity/
