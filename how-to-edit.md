@@ -16,7 +16,7 @@ If you are a frequent editor, we can even give you access, so that step 3 & 4 ar
 
 ## Create new pages
 
-1. Go to the repository: <https://github.com/srid/reddit.zettel.page>
+1. Go to the repository: <https://github.com/Kuratoro/zk.zettel.page>
 2. Click the "Create new file" button
 3. Copy the paste the following template
 
