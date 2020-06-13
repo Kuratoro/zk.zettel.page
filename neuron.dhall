@@ -1,4 +1,4 @@
-{ siteTitle = "Zettelkasten @ zettel.page"
+{ siteTitle = "Zettelkasten @ zk.zettel.page"
 , author = None Text
 , siteBaseUrl = Some "https://zk.zettel.page"
 , theme = "orange"
