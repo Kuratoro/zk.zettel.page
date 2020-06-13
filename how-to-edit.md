@@ -1,6 +1,4 @@
----
-title: How to edit this site
----
+# How to edit this site
 
 ## Edit existing pages
 1. Create a [GitHub](https://github.com/) account if you do not already have one. You will need this in order to edit this Zettelkasten.
@@ -24,12 +22,10 @@ If you are a frequent editor, we can even give you access, so that step 3 & 4 ar
 
 ### Template for new Zettel
 
-Note: in the metadata, `title` is required; but `date` and `tags` are optional.
+Note: the metadata -- which may includes`date` and `tags` -- is totally optional.
 
 ```markdown
----
-title: Our first zettel
----
+# Our first zettel
 
 Hello world!
 ```
