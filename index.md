@@ -1,5 +1,5 @@
 ---
-title:  Zettelkasten @ zettel.page
+title:  Zettelkasten @ zk.zettel.page
 ---
 
 ## Welcome
