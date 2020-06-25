@@ -5,6 +5,8 @@ date: 2020-05-14
 
 Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handy list, see <software-list?cf>.
 
+Also see [https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709) for another list.
+
 ## Table
 
 <iframe 
