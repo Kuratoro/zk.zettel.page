@@ -1,9 +1,20 @@
 ---
-title:  Zettelkasten @ zk.zettel.page
+title:  zk.zettel.page
 ---
 
 ## Welcome
-**This is a public Zettelkasten serving as a resource for the Zettelkasten system!**
+**This is a public Zettelkasten serving as a resource for the Zettelkasten method and other Personal Knowledge Management (PKM) systems.**
+
+### Get started
+
+:::{.ui .floating .message}
+:::{.header}
+Get started!
+:::
+Go to <zettelkasten> or go to the [index](https://www.zettel.page/z-index.html) to see all the notes.
+
+Go to <how-to-use> for more information on how to navigate through the notes, as well as how to edit and add notes.
+:::
 
 ### About
 The idea for this public <zettelkasten> arose via the [r/Zettelkasten](https://reddit.com/r/Zettelkasten/) subreddit.
@@ -19,13 +30,3 @@ It is hosted by [/u/srid-](https://www.reddit.com/user/srid-) on Github ([source
 * [Search](search.html) function
 * Notes can be tagged
 * Looks pretty good!
-
-### Get started
-
-:::{.ui .floating .message}
-:::{.header}
-Get started by checking out <zettelkasten> or go to the [index](https://www.zettel.page/z-index.html) to see all the notes.
-:::
-
-Check out <how-to-use> for more information on how to navigate through the notes, as well as how to edit and add notes.
-:::
