@@ -7,7 +7,7 @@ date: 2020-05-14
 
 The Zettelkasten method enables users to store and organize knowledge, extend their memory, and generate new connections and ideas. 
 
-Although it can have many applications, the version that is mainly referred to is the one developed by the prolific German social theorist, **Niklas Luhmann**, who viewed it as a "partner" in his writing process.[^1]
+The original system that we refer to is one developed by the prolific German social theorist, **Niklas Luhmann**, who viewed it as a "partner" in his writing process.[^1]
 
 [^1]: Luhmann's [explanation](https://luhmann.surge.sh/communicating-with-slip-boxes)
 
