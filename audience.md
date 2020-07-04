@@ -12,4 +12,4 @@ Who is Zettelkasten for? Is it only for academics and writers? Or
 Discussion in **r/Zettelkasten**:
 
 * [Is zettelkasten it for non-writers and non-researchers?](https://www.reddit.com/r/Zettelkasten/comments/hkupvt/is_zettelkasten_it_for_nonwriters_and/)
-* [https://www.reddit.com/r/Zettelkasten/comments/hj42rr/is_zettelkasten_good_for_a_technical_knowledge/](Is Zettelkasten good for a technical knowledge management?)
+* [Is Zettelkasten good for a technical knowledge management?](https://www.reddit.com/r/Zettelkasten/comments/hj42rr/is_zettelkasten_good_for_a_technical_knowledge/)
