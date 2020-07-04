@@ -13,3 +13,7 @@ Discussion in **r/Zettelkasten**:
 
 * [Is zettelkasten it for non-writers and non-researchers?](https://www.reddit.com/r/Zettelkasten/comments/hkupvt/is_zettelkasten_it_for_nonwriters_and/)
 * [Is Zettelkasten good for a technical knowledge management?](https://www.reddit.com/r/Zettelkasten/comments/hj42rr/is_zettelkasten_good_for_a_technical_knowledge/)
+
+Somewhat related questions:
+
+* [How do you deal with personal questions/thoughts?](https://www.reddit.com/r/Zettelkasten/comments/hegs3e/how_do_you_deal_with_personal_questionsthoughts/)
