@@ -19,3 +19,4 @@ Discussion in **r/Zettelkasten**:
 Somewhat related questions:
 
 * [How do you deal with personal questions/thoughts?](https://www.reddit.com/r/Zettelkasten/comments/hegs3e/how_do_you_deal_with_personal_questionsthoughts/)
+* [Do you keep your journal inside your Zettelkasten?](https://www.reddit.com/r/Zettelkasten/comments/gizpzg/do_you_keep_your_journal_inside_your_zettelkasten/)
