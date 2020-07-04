@@ -11,9 +11,6 @@ title: Videos
 Christian Adleta, 2020, 14 min
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vPjTyn0j1OY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Zettelkasten: 3 More Tips](https://youtu.be/7TnUNN39NBU) - trms, 2020, 4 min
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7TnUNN39NBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 - [ZETTELKASTEN: How to build your own?](https://youtu.be/CraQJjBH4Qs) - 
 Mukul Khanna, 2020, 6 min
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CraQJjBH4Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,6 +18,9 @@ Mukul Khanna, 2020, 6 min
 * [Organize Your Knowledge with Zettelkasten](https://youtu.be/XUltI4v_UU4) - trms, 2020, 8 min
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XUltI4v_UU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Zettelkasten: 3 More Tips](https://youtu.be/7TnUNN39NBU) - trms, 2020, 4 min
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TnUNN39NBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Zettelkasten Learning Method: Simply Explained](https://www.youtube.com/watch?v=rOSZOCoqOo8.) - Shu Omi, 2020, 4 min
 
