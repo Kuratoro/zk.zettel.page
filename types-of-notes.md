@@ -1,7 +1,10 @@
 ---
-title: Types of Notes
 date: 2020-05-14
+tags:
+  - getting-started
 ---
+
+# Types of Notes
 
 :::{.ui .info .message}
 :::{.header}
