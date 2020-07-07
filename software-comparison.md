@@ -5,7 +5,7 @@ date: 2020-05-14
 
 Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handy list, see <software-list?cf>.
 
-Also see [https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709) for another list.
+Look [here](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709) for another list and [here](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0) for a Mac-specific list.
 
 ## Table
 
