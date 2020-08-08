@@ -26,11 +26,13 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
 * Note storage: Markdown
 * Why would you choose Neuron:
+  * Future-proof 
   * Open source
   * Statically generated web interface
-  * Graph view of Zettels
+  * Folgezettel Heterarchy
   * Built on Pandoc, with note-linking support
   * Use from command line with any editor
+  * Or, use the upcoming web app [Cerveau](https://www.cerveau.app/)
 
 ### Notion
 * Video: <https://www.youtube.com/watch?v=e2tttUPGlB8>
