@@ -7,6 +7,10 @@ title: Videos
 
 ## General videos (arranged by date)
 
+- [Understanding Zettelkasten Method: How to make the most out of your slip-box](https://youtu.be/eMJGKZ7n9hE) - 
+Eva Thomas, 2020, 11 min
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMJGKZ7n9hE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - [How My Cheap ZettelKasten Works](https://youtu.be/vPjTyn0j1OY) - 
 Christian Adleta, 2020, 14 min
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vPjTyn0j1OY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
