@@ -9,6 +9,8 @@ date: 2020-05-22
 
 ## Articles (ordered by date)
 
+- [Understanding Zettelkasten — What does it mean to communicate with the slip-box](https://medium.com/@ethomasv/understanding-zettelkasten-d0ca5bb1f80e?source=friends_link&sk=1823e7ca9d09c4a3549fe909df241d66), Eva Thomas, added 2020
+
 - [Wikipedia article](https://en.wikipedia.org/wiki/Zettelkasten), added 2020
 
 - [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/writing/note-taking-zettelkasten/), Eugene Yan, added 2020
