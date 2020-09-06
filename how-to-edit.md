@@ -36,7 +36,7 @@ Linking to a file within a Zettel indicates that it is branching off from it. Ba
 
 See [Neuron documentation](https://neuron.zettel.page/2011504.html) on how to link between zettels.
 
-```markdown
+```
 [[[file-name]]] --> This links (and branches) to the zettel named "file-name.md"
 ```
 
