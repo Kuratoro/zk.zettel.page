@@ -37,10 +37,10 @@ Linking to a file within a Zettel indicates that it is branching off from it. Ba
 See [Neuron documentation](https://neuron.zettel.page/2011504.html) on how to link between zettels.
 
 ```markdown
-<file-name> --> This links (and branches) to the zettel named "file-name.md"
+[[[file-name]]] --> This links (and branches) to the zettel named "file-name.md"
 ```
 
-For example: using `<examples>` will link to the <examples?cf> note. If you would like to link only, but not branch off, use `<examples?cf>`.
+For example: using `[[[examples]]]` will link to the [[examples]] note. If you would like to link only, but not branch off, use `[[examples]]`.
 
 ## Markdown guidelines
 
