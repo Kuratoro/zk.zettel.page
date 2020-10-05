@@ -25,6 +25,6 @@ Get started!
 * [Anyone can contribute](https://github.com/Kuratoro/zk.zettel.page/edit/master/index.md) - if you need help with the editing/note creation process, feel free to [[contact]] us
 * [Full revision history in git](https://github.com/Kuratoro/zk.zettel.page/commits/master)
 * [View all the notes using the Folgezettel heterarchy view in the index](z-index.html)
-* [Search function](search.html)
+* [Search function](./search.html)
 * Notes can be tagged
 * Shows uplinks and backlinks
