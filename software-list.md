@@ -1,7 +1,8 @@
 ---
-title: Software list
 date: 2020-05-14
 ---
+
+# Software list
 
 There are numerous digital Zettelkasten programs available. This note collects
 links and pointers for choosing the right one. For comparison, see <software-comparison?cf>.
@@ -21,9 +22,6 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 * Videos
   * Zetteldeft: <https://www.youtube.com/watch?v=azOPZGO2vso>
   * Orgmode: <https://www.youtube.com/watch?v=UWB6ZABRVq0>
-
-### Linkist
-* Plugin for VSCode at https://github.com/gladed/linkist
 
 ### [Neuron](https://neuron.zettel.page/) -- Zettelkasten - plain-text and editor-independent
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
@@ -103,6 +101,12 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * External links
     * Link verification
 
+### Visual Studio Code
+
+[VS Code](https://code.visualstudio.com/) can be used with certain Markdown/ Zettelkasten extensoins:
+
+* [linkist](https://github.com/gladed/linkist): create persistent links between markdown documents in your workspace
+* [vscode-memo](https://github.com/svsool/vscode-memo#memo): Markdown knowledge base with bidirectional [[link]]s built on top of VSCode ([works with neuron](https://neuron.zettel.page/editor.html))
 
 ### [Zettlr](https://zettlr.com) -- A Markdown Editor for 21st Century
 * Platform: Linux, Windows, OS X 
