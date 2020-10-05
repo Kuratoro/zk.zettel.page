@@ -22,6 +22,9 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
   * Zetteldeft: <https://www.youtube.com/watch?v=azOPZGO2vso>
   * Orgmode: <https://www.youtube.com/watch?v=UWB6ZABRVq0>
 
+### Linkist
+* Plugin for VSCode at https://github.com/gladed/linkist
+
 ### [Neuron](https://neuron.zettel.page/) -- Zettelkasten - plain-text and editor-independent
 * Platform: Linux, OS X and Windows (Windows support requires [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
 * Note storage: Markdown
@@ -39,7 +42,6 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 
 ### nvALT
 * Video: <https://www.youtube.com/watch?v=jgZOMN5KfTE>
-
 
 ### [Passfindr](https://passfindr.com) -- Security and Productivity
 * Platform: Android, Web
