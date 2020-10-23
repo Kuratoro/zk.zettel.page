@@ -106,7 +106,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 [VS Code](https://code.visualstudio.com/) can be used with certain Markdown/ Zettelkasten extensoins:
 
 * [linkist](https://github.com/gladed/linkist): create persistent links between markdown documents in your workspace
-* [vscode-memo](https://github.com/svsool/vscode-memo#memo): Markdown knowledge base with bidirectional [[link]]s built on top of VSCode ([works with neuron](https://neuron.zettel.page/editor.html))
+* [vscode-memo](https://github.com/svsool/vscode-memo#memo): Markdown knowledge base with bidirectional `[[link]]`s built on top of VSCode ([works with neuron](https://neuron.zettel.page/editor.html))
 
 ### [Zettlr](https://zettlr.com) -- A Markdown Editor for 21st Century
 * Platform: Linux, Windows, OS X 
