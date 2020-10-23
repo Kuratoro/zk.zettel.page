@@ -2,11 +2,10 @@
 date: 2020-07-04
 ---
 
-# r/Zettelkasten submissions
+# r/Zettelkasten - submission themes
 
-:::{.ui .warning .message}
-This part of the site is not actively maintained at the moment. But you can help keep it up to date!
-:::
+{.ui .message}
+What is this Zettel, and the zettels under it, for? We wrote it mainly to collect r/zettelkasten submissions asking similar questions. So that when someone asks a similar question in the future, we could write a comment pointing them to this zettel.
 
 Some notable themes in the posts to r/Zettelkasten:
 
