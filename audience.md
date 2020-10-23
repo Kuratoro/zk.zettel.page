@@ -6,9 +6,6 @@ tags:
 
 # Target Audience
 
-{.ui .message}
-What is this Zettel for? I wrote it mainly to collect r/zettelkasten submissions asking similar questions. So that when someone asks a similar question in the future, we could write a comment pointing them to this zettel.
-
 Who is Zettelkasten for? Is it only for academics and writers? Or?
 
 Discussion in **r/Zettelkasten**:
