@@ -5,7 +5,7 @@ date: 2020-05-14
 # Software list
 
 There are numerous digital Zettelkasten programs available. This note collects
-links and pointers for choosing the right one. For comparison, see <software-comparison?cf>.
+links and pointers for choosing the right one. For comparison, see [[software-comparison]].
 
 Note that it is likely that the tool you use doesn't really matter all that much. The original Zettelkasten was a huge stack of paper slips and even that worked great. There is one case where the choice of the tool has a huge impact, namely the case where the tool you use is discontinued. To avoid being left with a stack of 5000 notes that you can no longer access, prefer tools that export/save to common formats, like txt files.
 

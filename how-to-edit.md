@@ -49,6 +49,6 @@ For example: using `[[[examples]]]` will link to the [[examples]] note. If you w
 * Link to a basic Markdown [primer](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Notes (specific to Neuron)
   * The title of the Zettel will be a first level heading.
-  * URLs must be enclosed in angle brackets to be formatted as a link `<url-example>`
+  * URLs must be enclosed in angle brackets to be formatted as a link `[[[url-example]]]`
   * To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the Zettel title.
 * Full list of features supported by Neuron, [see here](https://neuron.zettel.page/2011404.html)

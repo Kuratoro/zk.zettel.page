@@ -3,7 +3,7 @@ title: Software comparison
 date: 2020-05-14
 ---
 
-Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handy list, see <software-list?cf>.
+Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handy list, see [[software-list]].
 
 Look [here](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709) for another list and [here](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0) for a Mac-specific list.
 
@@ -26,7 +26,7 @@ Please add data to help community members choose their ideal ZK software!
 
   * [EtherCalc](https://ethercalc.org/ix8bg39wsrca) 
 
-  * Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact](<contact?cf>) us after making any additions or changes to the second table so that it can be synced to the Google Sheets version (displayed above). You may also contact us if you would like to view the most updated version of the table.
+  * Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact]([[contact]]) us after making any additions or changes to the second table so that it can be synced to the Google Sheets version (displayed above). You may also contact us if you would like to view the most updated version of the table.
 
 Thank you in advance for your contributions!
 

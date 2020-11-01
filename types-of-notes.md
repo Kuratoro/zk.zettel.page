@@ -8,7 +8,7 @@ tags:
 
 :::{.ui .info .message}
 :::{.header}
-Part x of <getting-started?cf>
+Part x of [[getting-started]]
 :::
 
 Now that you know what a Zettelkasten is, what exactly goes into it?
@@ -26,17 +26,17 @@ Now that you know what a Zettelkasten is, what exactly goes into it?
 ### 2. Literature notes
 - these are created for a specific resource, such as a book, article, web page, etc.
 - notes are taken specifically on the content
-- these notes are typically filed separately from your [permanent notes](#3-permanent-notes), such as with your <referencing> system. 
+- these notes are typically filed separately from your [permanent notes](#3-permanent-notes), such as with your [[[referencing]]] system. 
 
 #### Guidelines
 - be selective, rewrite it in your own words and make sure you understand the concept (or follow up on it if you don't at first)
 - as when writing academic papers, use direct quotes sparingly
-- remember, you are not simply collecting resources (see <collecting>)
+- remember, you are not simply collecting resources (see [[[collecting]]])
 - Question: is the content useful/interesting/relevant to you and/or your research?
 
 ### 3. Permanent notes
 - once you have an idea to add to your Zettelkasten, you are ready to create permanent notes (Zettel)
-- **<linking?cf>** is a key component of creating your Zettelkasten
+- **[[linking]]** is a key component of creating your Zettelkasten
   - every time you add a new Zettel, look through your previous notes and ask yourself:
     - is this relevant to my research/thoughts/interests?
     - how can I develop or add to existing ideas/arguments/discussions?
@@ -57,7 +57,7 @@ Now that you know what a Zettelkasten is, what exactly goes into it?
 
 ## Resources
 
-Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace. (also see <books?cf> for further reading)
+Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace. (also see [[books]] for further reading)
 
 [^1]: The principle of atomicity: <https://www.zettelkasten.de/posts/create-zettel-from-reading-notes/>
 
