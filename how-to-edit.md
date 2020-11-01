@@ -32,15 +32,15 @@ Hello world!
 
 ## How to link to other Zettel
 
-Linking to a file within a Zettel indicates that it is branching off from it. Backlinks are automatically shown on the web browser. 
-
-See [Neuron documentation](https://neuron.zettel.page/2011504.html) on how to link between zettels.
+Use the usual wiki-link syntax to link to a zettel:
 
 ```
-[[[file-name]]] --> This links (and branches) to the zettel named "file-name.md"
+[[file-name]] -> This links to file-name.md
 ```
 
-For example: using `[[[examples]]]` will link to the [[examples]] note. If you would like to link only, but not branch off, use `[[examples]]`.
+For example: using `[[examples]]` will link to the [[examples]] note.
+
+See [Neuron documentation](https://neuron.zettel.page/linking.html) on how to link between zettels.
 
 ## Markdown guidelines
 
@@ -51,4 +51,4 @@ For example: using `[[[examples]]]` will link to the [[examples]] note. If you w
   * The title of the Zettel will be a first level heading.
   * URLs must be enclosed in angle brackets to be formatted as a link `[[[url-example]]]`
   * To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the Zettel title.
-* Full list of features supported by Neuron, [see here](https://neuron.zettel.page/2011404.html)
+* Full list of features supported by Neuron, [see here](https://neuron.zettel.page/markdown.html)
