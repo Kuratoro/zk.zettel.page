@@ -15,6 +15,7 @@ Discussion in **r/Zettelkasten**:
 * [What are purposes of Zettelkasten in areas outside of writing?](https://www.reddit.com/r/Zettelkasten/comments/ggxye6/what_are_purposes_of_zettelkasten_in_areas/)
 * [Is Zettelkasten good for a technical knowledge management?](https://www.reddit.com/r/Zettelkasten/comments/hj42rr/is_zettelkasten_good_for_a_technical_knowledge/)
 * [Zettelkasten and studying?](https://www.reddit.com/r/Zettelkasten/comments/h7q5tl/zettelkasten_and_studying/)
+* [A creative Zettelkasten? Is this possible?](https://www.reddit.com/r/Zettelkasten/comments/jkljz1/a_creative_zettelkasten_is_this_possible/)
 
 Somewhat related questions:
 
