@@ -1,8 +1,7 @@
 ---
-date: 2020-11-04T13:58
+tags: [reddit]
 ---
 
-# scaling
+# Large notebooks
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+* [Do you feel confident that your ZK will work with 100k notes?](https://www.reddit.com/r/Zettelkasten/comments/jnydrf/do_you_feel_confident_that_your_zk_will_work_with/)
