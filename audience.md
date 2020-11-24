@@ -16,6 +16,7 @@ Discussion in **r/Zettelkasten**:
 * [Is Zettelkasten good for a technical knowledge management?](https://www.reddit.com/r/Zettelkasten/comments/hj42rr/is_zettelkasten_good_for_a_technical_knowledge/)
 * [Zettelkasten and studying?](https://www.reddit.com/r/Zettelkasten/comments/h7q5tl/zettelkasten_and_studying/)
 * [A creative Zettelkasten? Is this possible?](https://www.reddit.com/r/Zettelkasten/comments/jkljz1/a_creative_zettelkasten_is_this_possible/)
+  * [Is the Zettelkasten method good for people who are already creative?](https://www.reddit.com/r/Zettelkasten/comments/k04jsm/is_the_zettelkasten_method_good_for_people_who/)
 
 Somewhat related questions:
 
