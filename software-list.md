@@ -51,6 +51,16 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
     * Fast
     * Can publish notes on web
 
+### [Org-roam](https://www.orgroam.com/) -- A plain-text personal knowledge management system
+
+* Platform: Windows, macOS, Linux (requires Emacs)
+* Note storage: Plain Text
+* Why would you choose org-roam:
+    - Connections, backlinks and built-in graph visualization.
+    - Extensible using the Emacs ecosystem
+    - [Open Source](https://github.com/org-roam/org-roam); licensed under GPL3
+    - Inclusive and active community of users passionate about Personal Knowledge Management; on [Discourse](https://org-roam.discourse.group/) and [Slack](https://orgroam.slack.com/).
+    - Well documented; see [the manual](https://www.orgroam.com/manual.html).
 
 ### [Roam Research](https://roamresearch.com) -- A Note taking tool for networked thought
 * Platform: Web
