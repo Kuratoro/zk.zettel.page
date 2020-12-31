@@ -9,7 +9,7 @@ links and pointers for choosing the right one. For comparison, see [[software-co
 
 Note that it is likely that the tool you use doesn't really matter all that much. The original Zettelkasten was a huge stack of paper slips and even that worked great. There is one case where the choice of the tool has a huge impact, namely the case where the tool you use is discontinued. To avoid being left with a stack of 5000 notes that you can no longer access, prefer tools that export/save to common formats, like txt files.
 
-Source: This is collected from [this discussion thread](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/). The discussion also lists lot of other tools by name.
+Source: This is collected from [this discussion thread](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/). The discussion also lists lots of other tools by name.
 
 ## Software (ordered alphabetically)
 
@@ -32,7 +32,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
   * Statically generated web interface
   * Folgezettel Heterarchy
   * Built on Pandoc, with note-linking support
-  * Use from command line with any editor
+  * Use from command-line with any editor
   * Or, use the upcoming web app [Cerveau](https://www.cerveau.app/)
 
 ### Notion
@@ -46,8 +46,7 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 * Note storage: Plain Text/Rich text
 * Why would you choose Passfindr:
     * Can encrypt notes
-    * Plain text notes without templates. You can
-        design each note however you wish.
+    * Plain text notes without templates. You can design each note however you wish.
     * Fast
     * Can publish notes on web
 
@@ -102,9 +101,9 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 
 ### [Vim-Zettel](https://github.com/michal-h21/vim-zettel) -- Zettelkasten in VIM
 * Platform: Linux, Windows, OS X, maybe others
-* Note storage: plain text/markdown/wikiformat
+* Note storage is plain text/markdown/wikiformat
 * Why would you use Vim-Zettel?
-    * If you already use Vim, this is natural option
+    * If you already use Vim, this is a natural option
     * Backlink generation 
     * Fuzzy searching
     * Custom note templates and custom file naming
@@ -113,10 +112,12 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
 
 ### Visual Studio Code
 
-[VS Code](https://code.visualstudio.com/) can be used with certain Markdown/ Zettelkasten extensoins:
+[VS Code](https://code.visualstudio.com/) can be used with certain Markdown / Zettelkasten extensions:
 
 * [linkist](https://github.com/gladed/linkist): create persistent links between markdown documents in your workspace
 * [vscode-memo](https://github.com/svsool/vscode-memo#memo): Markdown knowledge base with bidirectional links built on top of VSCode ([works with neuron](https://neuron.zettel.page/editor.html))
+* [Insert Date String](https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-insertdatestring). One can configure a customized ID (timestamp) when creating notes.
+* [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes). Another extension in the same genre of vscode-memo (see above). provides the links, backlinks, and tagging capabilities. Supports auto-completion via Intellisense. 
 
 ### [Zettlr](https://zettlr.com) -- A Markdown Editor for 21st Century
 * Platform: Linux, Windows, OS X 
@@ -127,3 +128,17 @@ Source: This is collected from [this discussion thread](https://www.reddit.com/r
       citations
     * Heatmap search
     * Good language support
+
+## Storage Management (The Kasten)
+
+Plain text, file system-based zettels will require some level of protection. 
+
+### Backup
+One should always backup their data. Select a mechanism for your particular operating system. For example, macOS users should include their zettels as part of the regular backup process on their machine. 
+
+### Offsite synchronization and versioning
+
+Option | Description
+--- | ---
+Cloud synchronization (e.g., OneDrive, Google Drive, Dropbox) | these provide the synchronization of data to a cloud-based server in the event of loss or theft of one's machine. 
+Version control system (e.g., GitHub, GitLab, BitBucket) | These services provide offsite storage and automatic synchronization (if configured correctly). Additionally, these services provide versioning so one can track the evolution of their knowledge base. *Note: this option is probably more attractive to individuals with an IT / engineering background.*
