@@ -62,5 +62,3 @@ Ahrens, S. (2017). How to take smart notes: One simple technique to boost writin
 [^1]: The principle of atomicity: <https://www.zettelkasten.de/posts/create-zettel-from-reading-notes/>
 
 [^2]: The Feynman technique: <https://fs.blog/2012/04/feynman-technique/>
-
-
