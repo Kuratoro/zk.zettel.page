@@ -6,9 +6,8 @@ date: 2020-05-14
 
 Currently maintaining this project:
 
-* **Srid**, the technical mastermind
-  * [Reddit](https://www.reddit.com/user/srid-/)
-  * Website: <https://www.srid.ca/>
+* **Srid** (Sridhar Ratnakumar), the technical mastermind
+  * Website: <https://www.srid.ca/> (contact info in website)
 * **EyebrowHairs**, moderator
     * Send a [modmail](https://reddit.com/message/compose?to=/r/Zettelkasten) on Reddit
     * Email: eyebrowhairs.red@gmail.com
