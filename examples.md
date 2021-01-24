@@ -13,5 +13,5 @@ date: 2020-05-14
 
 ### Curated lists
 
-- [Neuron examples](https://neuron.srid.ca/2013101.html) - personal website, community notes, etc.
+- [Neuron examples](https://neuron.zettel.page/examples.html) - personal website, community notes, etc.
 - [Second-Brain 🧠](https://github.com/KasperZutterman/Second-Brain) - curated list of awesome Public Zettelkastens 🗄️ / Seconds Brains 🧠 / Digital Gardens 🌱 
