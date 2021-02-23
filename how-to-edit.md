@@ -22,7 +22,7 @@ If you are a frequent editor, we can even give you access, so that step 3 & 4 ar
 
 ### Template for new Zettel
 
-Note: the metadata -- which may includes`date` and `tags` -- is totally optional.
+Note: the metadata -- which may includes `date` and `tags` -- is totally optional.
 
 ```markdown
 # Our first zettel
@@ -34,7 +34,7 @@ Hello world!
 
 Use the usual wiki-link syntax to link to a zettel:
 
-```
+```markdown
 [[file-name]] -> This links to file-name.md
 ```
 
