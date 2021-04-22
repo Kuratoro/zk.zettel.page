@@ -54,6 +54,14 @@ Now that you know what a Zettelkasten is, what exactly goes into it?
 
   
 ### 4. Index or Structure notes
+- ties all of your notes together similar to index section found on books
+- contains a group of links that serve as an entry for a topic or concept
+
+#### Guidelines
+- create a main index note as a entry point similarly how websites usually contain navigation links
+  - ideally, it would reflect your current interest
+- create index or structure notes on broader topics
+  - e.x. Programming, Art, Music, Writing, Learning
 
 ## Resources
 
