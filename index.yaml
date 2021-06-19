@@ -1,0 +1,11 @@
+page:
+  siteTitle: PKM Zettelkasten
+  siteName: PKM Zettelkasten
+  description: |
+    Zettelkasten Wiki for r/Zettelkasten subreddit.
+    
+template:
+  theme: pink
+  iconUrl: static/favicon.png
+  sidebar:
+    collapsed: false
