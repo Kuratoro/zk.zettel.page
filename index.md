@@ -1,15 +1,15 @@
 # zk.zettel.page
 
 ## Welcome
-This is a public wiki serving as a resource for the [[[zettelkasten]]] method and other Personal Knowledge Management (PKM) systems.
+This is a public wiki serving as a resource for the [[zettelkasten]]# method and other Personal Knowledge Management (PKM) systems.
 
 :::{.ui .floating .message}
 :::{.header}
 Get started!
 :::
-- [[[zettelkasten]]] - View all categories
+- [[zettelkasten]]# - View all categories
 - [Index](@index) - View & search all notes
-- [[[how-to-use]]] - View how to navigate, edit, and add notes
+- [[how-to-use]]# - View how to navigate, edit, and add notes
 :::
 
 ### About
