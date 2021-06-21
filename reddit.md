@@ -9,5 +9,8 @@ What is this Zettel, and the zettels under it, for? We wrote it mainly to collec
 
 Some notable themes in the posts to r/Zettelkasten:
 
-[[[z:zettels?tag=reddit]]]
+```query
+path:./*
+```
+
 
