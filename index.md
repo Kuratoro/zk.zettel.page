@@ -8,9 +8,7 @@ This is a public wiki serving as a resource for the [[[zettelkasten]]] method an
 Get started!
 :::
 - [[[zettelkasten]]] - View all categories
-
-- [Index](./impulse.html) - View & search all notes
-
+- [Index](@index) - View & search all notes
 - [[[how-to-use]]] - View how to navigate, edit, and add notes
 :::
 
@@ -24,7 +22,6 @@ Get started!
 ### Features
 * [Anyone can contribute](https://github.com/Kuratoro/zk.zettel.page/edit/master/index.md) - if you need help with the editing/note creation process, feel free to [[contact]] us
 * [Full revision history in git](https://github.com/Kuratoro/zk.zettel.page/commits/master)
-* [View all the notes using the Folgezettel heterarchy view in the index](./impulse.html)
-* [Search function](./impulse.html)
+* [View all the notes using the Index](@index)
 * Notes can be tagged
 * Shows uplinks and backlinks

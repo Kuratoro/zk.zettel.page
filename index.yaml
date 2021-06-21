@@ -5,7 +5,7 @@ page:
     Zettelkasten Wiki for r/Zettelkasten subreddit.
     
 template:
-  theme: pink
+  theme: yellow
   iconUrl: static/favicon.png
   sidebar:
     collapsed: false
