@@ -1,4 +1,4 @@
-# zk.zettel.page
+# PKM Zettelkasten
 
 ## Welcome
 This is a public wiki serving as a resource for the [[zettelkasten]]# method and other Personal Knowledge Management (PKM) systems.
@@ -15,7 +15,7 @@ Get started!
 ### About
 - This public wiki originated from the [r/Zettelkasten](https://reddit.com/r/Zettelkasten/) subreddit.
 - It is hosted by [/u/srid-](https://www.reddit.com/user/srid-) on Github ([source](https://github.com/Kuratoro/zk.zettel.page)) and is currently editable by anyone with a Github account (see [[how-to-edit]]). 
-- This site is managed by the open source software called [Neuron](https://neuron.zettel.page/).
+- This site is managed by the open source software called [Emanote](https://note.ema.srid.ca/).
 
 ### Features
 * [Anyone can contribute](https://github.com/Kuratoro/zk.zettel.page/edit/master/index.md) - if you need help with the editing/note creation process, feel free to [[contact]] us
