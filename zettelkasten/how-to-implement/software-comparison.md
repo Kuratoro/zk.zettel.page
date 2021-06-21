@@ -19,14 +19,10 @@ Look [here](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b4
 Please add data to help community members choose their ideal ZK software!
 
 * Here is the link to the Google Sheets version of the table that can be edited:
-
   * [Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
-
 * There is a second table that can be edited if you cannot access Google. 
-
   * [EtherCalc](https://ethercalc.org/ix8bg39wsrca) 
-
-  * Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [contact]([[contact]]) us after making any additions or changes to the second table so that it can be synced to the Google Sheets version (displayed above). You may also contact us if you would like to view the most updated version of the table.
+  * Please send a [modmail](https://www.reddit.com/message/compose?to=/r/Zettelkasten) or [[contact]] us after making any additions or changes to the second table so that it can be synced to the Google Sheets version (displayed above). You may also contact us if you would like to view the most updated version of the table.
 
 Thank you in advance for your contributions!
 

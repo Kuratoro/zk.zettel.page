@@ -3,14 +3,13 @@
 ## Edit existing pages
 1. Create a [GitHub](https://github.com/) account if you do not already have one. You will need this in order to edit this Zettelkasten.
     - Your GitHub will also allow us to give you the necessary rights in the future.
-1. In order to edit a zettel, click the edit icon (paper and pencil) at the bottom of a zettel. 
-   1. It will you take to GitHub wherein you can make the edits, and create what is known as a "PR" (pull request).
+1. In order to edit a zettel, go to https://github.com/kuratoro/zk.zettel.page, select a note from the list and click "edit":
+   1. It will you allow you to make the edits, and create what is known as a "PR" (pull request).
    1. See [complete walkthrough of this process here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository).
-1. When a PR is created /u/srid- or /u/EyebrowHairs will "accept" it
+1. When a PR is created /u/sridqc or /u/EyebrowHairs will "accept" it
 1. Once accepted, the site is updated within a minute.
 
 If you are a frequent editor, we can even give you access, so that step 3 & 4 are obviated.
-
 
 ## Create new pages
 
@@ -40,7 +39,7 @@ Use the usual wiki-link syntax to link to a zettel:
 
 For example: using `[[examples]]` will link to the [[examples]] note.
 
-See [Neuron documentation](https://neuron.zettel.page/linking.html) on how to link between zettels.
+See [Neuron documentation](https://neuron.zettel.page/linking) on how to link between zettels.
 
 ## Markdown guidelines
 
@@ -49,6 +48,6 @@ See [Neuron documentation](https://neuron.zettel.page/linking.html) on how to li
 * Link to a basic Markdown [primer](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Notes (specific to Neuron)
   * The title of the Zettel will be a first level heading.
-  * URLs must be enclosed in angle brackets to be formatted as a link `[[[url-example]]]`
+  * URLs must be enclosed in angle brackets to be formatted as a link `[[url-example]]#`
   * To add headings to your zettel start from level 2 (`## Heading`) headers, as level 1 heading is used for the Zettel title.
-* Full list of features supported by Neuron, [see here](https://neuron.zettel.page/markdown.html)
+* Full list of features supported by Neuron, [see here](https://neuron.zettel.page/markdown)

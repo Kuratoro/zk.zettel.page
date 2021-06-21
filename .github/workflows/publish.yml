@@ -5,17 +5,17 @@ on:
     branches:
       - master
 jobs:
-  neuron:
+  emanote:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Build neuron site 🔧
+    - name: Build emanote site 🔧
       run: |
-        mkdir -p .neuron/output && touch .neuron/output/.nojekyll
-        docker run -v $PWD:/notes sridca/neuron neuron gen --pretty-urls
+        mkdir -p output 
+        docker run -v $PWD:/data sridca/emanote emanote -C /data gen /data/output
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: .neuron/output/
+        publish_dir: ./output/
         cname: zk.zettel.page
