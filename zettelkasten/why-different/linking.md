@@ -15,7 +15,6 @@ Examples:
     - use double brackets to symbolize an internal link `[[noteID]]`
     - typically clickable, so you will be taken directly to the note
     - variations in symbols: `<>`
-
 2. Manual linking
     - if the software you use doesn't support internal linking, you can set manual 'links' - a search function makes this much easier
     - you can use the same format as a wiki style link, or use any symbol you want

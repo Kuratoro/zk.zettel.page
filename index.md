@@ -14,9 +14,7 @@ Get started!
 
 ### About
 - This public wiki originated from the [r/Zettelkasten](https://reddit.com/r/Zettelkasten/) subreddit.
-
 - It is hosted by [/u/srid-](https://www.reddit.com/user/srid-) on Github ([source](https://github.com/Kuratoro/zk.zettel.page)) and is currently editable by anyone with a Github account (see [[how-to-edit]]). 
-
 - This site is managed by the open source software called [Neuron](https://neuron.zettel.page/).
 
 ### Features
