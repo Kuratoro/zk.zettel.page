@@ -4,7 +4,7 @@
   <meta charset='UTF-8' />
   <meta name='viewport' content='width=device-width, initial-scale=1' />
   <title>
-    Zettelkasten – PKM Zettelkasten
+    Linking – PKM Zettelkasten
   </title>
   
     
@@ -68,6 +68,24 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
               </svg>
             </li>
           
+            <li class='inline-flex items-center'>
+              <a class='px-1 font-bold' href='zettelkasten'>
+                Zettelkasten
+              </a>
+              <svg fill='currentColor' viewBox='0 0 20 20' class='w-auto h-5 text-gray-400'>
+                <path fill-rule='evenodd' d='M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z' clip-rule='evenodd'></path>
+              </svg>
+            </li>
+          
+            <li class='inline-flex items-center'>
+              <a class='px-1 font-bold' href='zettelkasten/why-different'>
+                Why is it different from taking regular notes?
+              </a>
+              <svg fill='currentColor' viewBox='0 0 20 20' class='w-auto h-5 text-gray-400'>
+                <path fill-rule='evenodd' d='M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z' clip-rule='evenodd'></path>
+              </svg>
+            </li>
+          
         </ul>
       </div>
     </div>
@@ -76,7 +94,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
 
 <h1 class='flex items-center justify-center mt-2 text-5xl font-extrabold text-black '>
   <a>
-    Zettelkasten
+    Linking
   </a>
 </h1>
         </div>
@@ -425,7 +443,11 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
               <!-- Variable bindings for this tree-->
 
   
-  
+    
+      
+      
+    
+
 
 
   
@@ -443,7 +465,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
       </svg>
       
   
-    <a class='font-bold text-yellow-600 hover:underline truncate' title='Zettelkasten' href='zettelkasten'>
+    <a class='font-bold hover:underline truncate' title='Zettelkasten' href='zettelkasten'>
       Zettelkasten
     </a>
     
@@ -855,11 +877,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
       <!-- Variable bindings for this tree-->
 
   
-    
-      
-    
-    
-
+  
 
 
   
@@ -872,12 +890,12 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
     
     
       <svg class='w-4 h-4 flex-shrink-0 inline' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
-        <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z'>
+        <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z'>
         </path>
       </svg>
-    
+      
   
-    <a class='hover:underline truncate' title='Linking' href='zettelkasten/why-different/linking'>
+    <a class='font-bold text-yellow-600 hover:underline truncate' title='Linking' href='zettelkasten/why-different/linking'>
       Linking
     </a>
     
@@ -1105,57 +1123,27 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
           <main>
             <article class='overflow-auto'>
   <!-- What goes in this file will appear on top of note body-->
-  <h2 id='what-is-it' class='mt-4 mb-4 text-4xl font-bold text-gray-700'>What is it?</h2><h3 id='terms' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Terms</h3>
+  
     <p class='my-3'>
-      Zettelkasten is German for ‘slip box’ or ‘card index’.
+      Specifics on linking notes.
     </p>
   
-    <dl class='flex flex-col'>
-      
-        <div class='my-1'>
-          <dt class='text-l font-bold'>
-            Zettelkasten
-          </dt>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                <em>slip/note/file/card-box/index</em>
-              </dd>
-            </div>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                plural: Zettelkästen
-              </dd>
-            </div>
-          
-        </div>
-      
-        <div class='my-1'>
-          <dt class='text-l font-bold'>
-            Zettel
-          </dt>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                <em>note/card</em>
-              </dd>
-            </div>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                plural: Zettel
-              </dd>
-            </div>
-          
-        </div>
-      
-    </dl>
-  <h3 id='concepts' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Concepts</h3><ul class='ml-4 space-y-1 list-disc list-inside'><li>The Zettelkasten method enables users to store and organize knowledge, extend their memory, and generate new connections and ideas.</li><li>The original system that we refer to was developed by the prolific German social theorist, <a href='https://en.wikipedia.org/wiki/Niklas_Luhmann' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'><strong>Niklas Luhmann</strong></a>, who viewed it as a “partner” in his writing process.
+    <p class='my-3'>
+      Typically, you give each note a unique identifier, and create a link to the desired note.
+    </p>
+  
+    <p class='my-3'>
+      Many Zettelkasten-aligned software have this function.
+    </p>
+  
+    <p class='my-3'>
+      Examples:
+    </p>
+  <ol class='ml-4 space-y-1 list-decimal list-inside'><li>Wiki style links
     <!-- DoNotFormat -->
     <sup class='px-0.5'><a class='text-yellow-600 hover:underline' href='#fn1'>1</a></sup>
     <!-- DoNotFormat -->
-  </li><li>Luhmann’s Zettelkasten consisted of wooden boxes containing over 60,000 notes written on small slips of paper.</li><li>In the modern age, we can use digital tools to emulate this system.</li><li><a href='zettelkasten/why-different' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Why is it different from taking regular notes?</a> - The difference between regular note-taking and the Zettelkasten system.</li><li><a href='zettelkasten/how-to-implement' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>How to implement</a> - How you can use digital tools to create your own Zettelkasten.</li></ul><h2 id='explore' class='mt-4 mb-4 text-4xl font-bold text-gray-700'>Explore</h2><h3 id='resources' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Resources</h3><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='zettelkasten/articles' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Online Articles</a></li><li><a href='zettelkasten/books' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Recommended Book List</a></li><li><a href='zettelkasten/videos' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Videos</a></li><li><a href='zettelkasten/websites' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Websites</a></li></ul><h3 id='community' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Community</h3><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='zettelkasten/examples' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Examples of Zettelkasten/ Wikis/ Digital Gardens</a> - Explore what others are doing with their Zettelkasten.</li><li><a href='zettelkasten/forums' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Discussion Forums</a> - Discuss and ask questions about the method.</li></ul>
+  <ul class='ml-4 space-y-1 list-disc list-inside'><li>use double brackets to symbolize an internal link <code class='py-0.5 bg-gray-100 text-sm'>[[noteID]]</code></li><li>typically clickable, so you will be taken directly to the note</li><li>variations in symbols: <code class='py-0.5 bg-gray-100 text-sm'>&lt;&gt;</code></li></ul></li><li>Manual linking<ul class='ml-4 space-y-1 list-disc list-inside'><li>if the software you use doesn’t support internal linking, you can set manual ‘links’ - a search function makes this much easier</li><li>you can use the same format as a wiki style link, or use any symbol you want</li><li>add the link, but since it is not clickable, you will have to copy and paste the ID into the search bar</li></ul></li></ol>
     <div title='Footnotes' class='pt-2 mt-4 space-y-1 text-gray-700 transform scale-90 border-t-2'>
       <header class='font-semibold'>Footnotes</header>
       
@@ -1164,7 +1152,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
             1.
           </header>
           <div class='inline-block mb-2 ml-4'>
-            Luhmann’s <a href='https://luhmann.surge.sh/communicating-with-slip-boxes' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>explanation</a>
+            <a href='https://en.wikipedia.org/wiki/Help:Link#Wikilinks' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>https://en.wikipedia.org/wiki/Help:Link#Wikilinks</a>
           </div>
         </div>
       
@@ -1177,24 +1165,24 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
     <ul class='space-y-1'>
       
         <li>
-          <a class='text-yellow-600 font-bold hover:bg-yellow-50' href=''>
-            zk.zettel.page
+          <a class='text-yellow-600 font-bold hover:bg-yellow-50' href='getting-started/types-of-notes'>
+            Types of Notes
           </a>
           <div class='mb-4 overflow-auto text-sm text-gray-500'>
             <!-- TODO: How to style the backlinks list item element? Or render each separately?
                     -->
-            <div><a href='zettelkasten' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkBranch'>Zettelkasten</a> - View all categories</div>
+            <div><strong><a href='zettelkasten/why-different/linking' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkNormal'>Linking</a></strong> is a key component of creating your Zettelkasten</div>
           </div>
         </li>
       
         <li>
-          <a class='text-yellow-600 font-bold hover:bg-yellow-50' href=''>
-            zk.zettel.page
+          <a class='text-yellow-600 font-bold hover:bg-yellow-50' href='zettelkasten/why-different'>
+            Why is it different from taking regular notes?
           </a>
           <div class='mb-4 overflow-auto text-sm text-gray-500'>
             <!-- TODO: How to style the backlinks list item element? Or render each separately?
                     -->
-            <div><p>This is a public wiki serving as a resource for the <a href='zettelkasten' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkBranch'>Zettelkasten</a> method and other Personal Knowledge Management (PKM) systems.</p></div>
+            <div>The emphasis on <a href='zettelkasten/why-different/linking' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkBranch'>Linking</a> notes/ideas together. Linking ties the notes together so they become more useful.</div>
           </div>
         </li>
       

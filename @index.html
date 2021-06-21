@@ -4,7 +4,7 @@
   <meta charset='UTF-8' />
   <meta name='viewport' content='width=device-width, initial-scale=1' />
   <title>
-    Zettelkasten – PKM Zettelkasten
+    @Index – PKM Zettelkasten
   </title>
   
     
@@ -36,71 +36,25 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
   <!-- DoNotFormat -->
 
   
-    <div class='container mx-auto'>
-      <!-- Header row-->
-      <div class='grid grid-cols-12 md:px-2'>
-        <!-- Logo column -->
-        <div class='hidden md:mr-4 md:block md:col-span-3'>
-          <div class='flex items-end h-full pl-2 mt-2 space-x-2'>
-            <a href=''>
-              
-                
-                  <img class='z-50 h-20 transition transform hover:scale-125 hover:opacity-80' src='static/favicon.png' />
-                
-              
-            </a>
-          </div>
-        </div>
-        <!-- Title column -->
-        <div class='col-span-12 md:col-span-9'>
-          
-  <div class='w-full text-gray-700'>
-    <div class='flex justify-left'>
-      <div class='bg-yellow-100 md:rounded-b-lg w-full py-2 px-2 md:w-auto md:py-0 md:px-0'>
-        <ul class='flex flex-wrap text-lg md:text-sm'>
-          
-            <li class='inline-flex items-center'>
-              <a class='px-1 font-bold' href=''>
-                zk.zettel.page
-              </a>
-              <svg fill='currentColor' viewBox='0 0 20 20' class='w-auto h-5 text-gray-400'>
-                <path fill-rule='evenodd' d='M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z' clip-rule='evenodd'></path>
-              </svg>
-            </li>
-          
-        </ul>
-      </div>
-    </div>
-  </div>
-
-
-<h1 class='flex items-center justify-center mt-2 text-5xl font-extrabold text-black '>
-  <a>
-    Zettelkasten
-  </a>
-</h1>
-        </div>
-      </div>
-
-      <!-- Main row-->
-      <div class='grid grid-cols-12 px-2'>
-        <!-- Sidebar column -->
-        <nav class='hidden overflow-x-auto md:mr-4 md:block md:col-span-3 md:sticky md:top-0 md:h-screen'>
-          <div class='flex flex-row float-right p-2 space-x-2 text-gray-500'>
-            <a href='@tags' title='View tags'>
-              <svg class='w-4 h-4 hover:text-yellow-700' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
-                <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z'>
-                </path>
-              </svg>
-            </a>
-            <a href='@index' title='Expand full tree'>
-              <svg class='w-4 h-4 hover:text-yellow-700' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
-                <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4'>
+    <div class='container mx-auto lg:max-w-screen-md'>
+      <main class='mx-2'>
+        <h1 class='pb-2 mt-2 mb-2 text-6xl text-center'>
+          @Index
+        </h1>
+        <div class='flex justify-center items-center mb-2'>
+  <a target='_blank' class='italic underline' href='https://github.com/srid/emanote/discussions/50'>Experimental
+    feature</a> !
+</div>
+        <div>
+          <div class='float-right p-2 text-gray-500 hover:text-yellow-700'>
+            <a href='/' title='Go to Home'>
+              <svg class='w-4 h-4' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6'>
                 </path>
               </svg>
             </a>
           </div>
-          <div class='pt-1 pb-2 rounded bg-yellow-50 border-2 border-yellow-200 shadow-inner'>
+          <div class='pt-1 pb-2 rounded bg-yellow-50 pl-4'>
             
               <!-- Variable bindings for this tree-->
 
@@ -425,7 +379,11 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
               <!-- Variable bindings for this tree-->
 
   
-  
+    
+      
+      
+    
+
 
 
   
@@ -443,7 +401,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
       </svg>
       
   
-    <a class='font-bold text-yellow-600 hover:underline truncate' title='Zettelkasten' href='zettelkasten'>
+    <a class='font-bold hover:underline truncate' title='Zettelkasten' href='zettelkasten'>
       Zettelkasten
     </a>
     
@@ -1099,115 +1057,9 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
 </div>
             
           </div>
-        </nav>
-        <!-- Main body column -->
-        <div class='col-span-12 md:col-span-9'>
-          <main>
-            <article class='overflow-auto'>
-  <!-- What goes in this file will appear on top of note body-->
-  <h2 id='what-is-it' class='mt-4 mb-4 text-4xl font-bold text-gray-700'>What is it?</h2><h3 id='terms' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Terms</h3>
-    <p class='my-3'>
-      Zettelkasten is German for ‘slip box’ or ‘card index’.
-    </p>
-  
-    <dl class='flex flex-col'>
-      
-        <div class='my-1'>
-          <dt class='text-l font-bold'>
-            Zettelkasten
-          </dt>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                <em>slip/note/file/card-box/index</em>
-              </dd>
-            </div>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                plural: Zettelkästen
-              </dd>
-            </div>
-          
         </div>
-      
-        <div class='my-1'>
-          <dt class='text-l font-bold'>
-            Zettel
-          </dt>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                <em>note/card</em>
-              </dd>
-            </div>
-          
-            <div class='flex flex-col pl-2'>
-              <dd class='text-gray-700'>
-                plural: Zettel
-              </dd>
-            </div>
-          
-        </div>
-      
-    </dl>
-  <h3 id='concepts' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Concepts</h3><ul class='ml-4 space-y-1 list-disc list-inside'><li>The Zettelkasten method enables users to store and organize knowledge, extend their memory, and generate new connections and ideas.</li><li>The original system that we refer to was developed by the prolific German social theorist, <a href='https://en.wikipedia.org/wiki/Niklas_Luhmann' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'><strong>Niklas Luhmann</strong></a>, who viewed it as a “partner” in his writing process.
-    <!-- DoNotFormat -->
-    <sup class='px-0.5'><a class='text-yellow-600 hover:underline' href='#fn1'>1</a></sup>
-    <!-- DoNotFormat -->
-  </li><li>Luhmann’s Zettelkasten consisted of wooden boxes containing over 60,000 notes written on small slips of paper.</li><li>In the modern age, we can use digital tools to emulate this system.</li><li><a href='zettelkasten/why-different' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Why is it different from taking regular notes?</a> - The difference between regular note-taking and the Zettelkasten system.</li><li><a href='zettelkasten/how-to-implement' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>How to implement</a> - How you can use digital tools to create your own Zettelkasten.</li></ul><h2 id='explore' class='mt-4 mb-4 text-4xl font-bold text-gray-700'>Explore</h2><h3 id='resources' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Resources</h3><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='zettelkasten/articles' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Online Articles</a></li><li><a href='zettelkasten/books' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Recommended Book List</a></li><li><a href='zettelkasten/videos' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Videos</a></li><li><a href='zettelkasten/websites' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Websites</a></li></ul><h3 id='community' class='mt-4 mb-2 text-3xl font-bold text-gray-700'>Community</h3><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='zettelkasten/examples' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Examples of Zettelkasten/ Wikis/ Digital Gardens</a> - Explore what others are doing with their Zettelkasten.</li><li><a href='zettelkasten/forums' class='text-yellow-600 font-bold hover:underline' data-wikilink-type='WikiLinkBranch'>Discussion Forums</a> - Discuss and ask questions about the method.</li></ul>
-    <div title='Footnotes' class='pt-2 mt-4 space-y-1 text-gray-700 transform scale-90 border-t-2'>
-      <header class='font-semibold'>Footnotes</header>
-      
-        <div id='fn1'>
-          <header class='italic'>
-            1.
-          </header>
-          <div class='inline-block mb-2 ml-4'>
-            Luhmann’s <a href='https://luhmann.surge.sh/communicating-with-slip-boxes' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>explanation</a>
-          </div>
-        </div>
-      
-    </div>
-  
-</article>
-            
-  <div class='p-4 mt-8 bg-gray-100 rounded'>
-    <header class='mb-2 text-xl font-semibold text-gray-500'>Links to this page</header>
-    <ul class='space-y-1'>
-      
-        <li>
-          <a class='text-yellow-600 font-bold hover:bg-yellow-50' href=''>
-            zk.zettel.page
-          </a>
-          <div class='mb-4 overflow-auto text-sm text-gray-500'>
-            <!-- TODO: How to style the backlinks list item element? Or render each separately?
-                    -->
-            <div><a href='zettelkasten' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkBranch'>Zettelkasten</a> - View all categories</div>
-          </div>
-        </li>
-      
-        <li>
-          <a class='text-yellow-600 font-bold hover:bg-yellow-50' href=''>
-            zk.zettel.page
-          </a>
-          <div class='mb-4 overflow-auto text-sm text-gray-500'>
-            <!-- TODO: How to style the backlinks list item element? Or render each separately?
-                    -->
-            <div><p>This is a public wiki serving as a resource for the <a href='zettelkasten' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkBranch'>Zettelkasten</a> method and other Personal Knowledge Management (PKM) systems.</p></div>
-          </div>
-        </li>
-      
-    </ul>
-  </div>
-
-            
-  <section class='flex flex-wrap items-end justify-center my-4 space-x-2 space-y-2 font-mono text-sm'>
-    
-  </section>
-
-          </main>
-          <footer class='flex items-center justify-center mt-2 mb-8 space-x-4 text-center text-gray-500'>
+      </main>
+      <footer class='flex items-center justify-center mt-2 mb-8 space-x-4 text-center text-gray-500'>
   <div class='flex space-x-2'>
     <div><a class='font-bold' href='@index'>@Index</a></div>
     <div>|</div>
@@ -1218,8 +1070,6 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
     <div><a class='font-bold' href='@tags'>@Tags</a></div>
   </div>
 </footer>
-        </div>
-      </div>
     </div>
   
 </body>
