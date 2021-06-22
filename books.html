@@ -4,7 +4,7 @@
   <meta charset='UTF-8' />
   <meta name='viewport' content='width=device-width, initial-scale=1' />
   <title>
-    Recommended Book List – PKM Zettelkasten
+    Books – PKM Zettelkasten
   </title>
   
     
@@ -85,7 +85,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
 
 <h1 class='flex items-center justify-center mt-2 text-5xl font-extrabold text-black '>
   <a>
-    Recommended Book List
+    Books
   </a>
 </h1>
         </div>
@@ -471,6 +471,42 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
       <!-- Variable bindings for this tree-->
 
   
+  
+
+
+  
+
+
+<!-- Rendering of this tree -->
+<div class='pl-2'>
+  <!-- Node's rootLabel-->
+  <div class='flex items-center my-2 space-x-2 justify-left'>
+    
+    
+      <svg class='w-4 h-4 flex-shrink-0 inline' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+        <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z'>
+        </path>
+      </svg>
+      
+  
+    <a class='font-bold text-yellow-600 hover:underline truncate' title='Books' href='books'>
+      Books
+    </a>
+    
+      
+  </div>
+
+  <!-- Node's children forest, displayed only on active trees
+    TODO: Use <details> to toggle visibility?
+  -->
+  
+    
+  
+</div>
+    
+      <!-- Variable bindings for this tree-->
+
+  
     
       
     
@@ -695,42 +731,6 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
   
     <a class='hover:underline truncate' title='Online Articles' href='articles'>
       Online Articles
-    </a>
-    
-      
-  </div>
-
-  <!-- Node's children forest, displayed only on active trees
-    TODO: Use <details> to toggle visibility?
-  -->
-  
-    
-  
-</div>
-    
-      <!-- Variable bindings for this tree-->
-
-  
-  
-
-
-  
-
-
-<!-- Rendering of this tree -->
-<div class='pl-2'>
-  <!-- Node's rootLabel-->
-  <div class='flex items-center my-2 space-x-2 justify-left'>
-    
-    
-      <svg class='w-4 h-4 flex-shrink-0 inline' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
-        <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z'>
-        </path>
-      </svg>
-      
-  
-    <a class='font-bold text-yellow-600 hover:underline truncate' title='Recommended Book List' href='books'>
-      Recommended Book List
     </a>
     
       
@@ -1114,7 +1114,61 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
           <main>
             <article class='overflow-auto'>
   <!-- What goes in this file will appear on top of note body-->
-  <ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by Sönke Ahrens (2017)</a>. The only English-language book specifically on the Zettelkasten method.<ul class='ml-4 space-y-1 list-disc list-inside'><li>Book reviews:<ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://jonathanlorimer.dev/posts/smart-notes-review.html' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>Book Review: How to Take Smart Notes by Sönke Ahrens</a></li><li><a href='https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>How to take smart notes (Ahrens, 2017)</a></li><li><a href='http://www.markwk.com/smart-notes.html' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>The Power of Systematic Notes: A Book Review of How to Take Smart Notes by Sönke Ahrens</a></li></ul></li></ul></li></ul>
+  
+    <dl class='flex flex-col'>
+      
+        <div class='my-1'>
+          <dt class='text-l font-bold'>
+            Sönke Ahrens <a href='https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>How to Take Smart Notes</a>
+          </dt>
+          
+            <div class='flex flex-col pl-2'>
+              <dd class='text-gray-700'>
+                The only English-language book specifically on the Zettelkasten method.
+              </dd>
+            </div>
+          
+            <div class='flex flex-col pl-2'>
+              <dd class='text-gray-700'>
+                <ul class='ml-4 space-y-1 list-disc list-inside'><li>Book reviews:</li></ul>
+              </dd>
+            </div>
+          
+            <div class='flex flex-col pl-2'>
+              <dd class='text-gray-700'>
+                <ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://jonathanlorimer.dev/posts/smart-notes-review.html' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>Book Review: How to Take Smart Notes by Sönke Ahrens</a></li></ul>
+              </dd>
+            </div>
+          
+            <div class='flex flex-col pl-2'>
+              <dd class='text-gray-700'>
+                <ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>How to take smart notes (Ahrens, 2017)</a></li></ul>
+              </dd>
+            </div>
+          
+            <div class='flex flex-col pl-2'>
+              <dd class='text-gray-700'>
+                <ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='http://www.markwk.com/smart-notes.html' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>The Power of Systematic Notes: A Book Review of How to Take Smart Notes by Sönke Ahrens</a></li></ul>
+              </dd>
+            </div>
+          
+        </div>
+      
+        <div class='my-1'>
+          <dt class='text-l font-bold'>
+            David Kadavy <a href='https://www.reddit.com/r/Zettelkasten/comments/nn772y/i_wrote_the_book_i_wish_i_had_when_i_started/' class='text-yellow-600 hover:underline' target='_blank' rel='noopener'>“I wrote the book I wish I had when I started Zettelkasten”</a>
+          </dt>
+          
+            <div class='flex flex-col pl-2'>
+              <dd class='text-gray-700'>
+                
+              </dd>
+            </div>
+          
+        </div>
+      
+    </dl>
+  
 </article>
             
   <div class='p-4 mt-8 bg-gray-100 rounded'>
@@ -1128,7 +1182,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
           <div class='mb-4 overflow-auto text-sm text-gray-500'>
             <!-- TODO: How to style the backlinks list item element? Or render each separately?
                     -->
-            <div><p>Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace. (also see <a href='books' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkNormal'>Recommended Book List</a> for further reading)</p></div>
+            <div><p>Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace. (also see <a href='books' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkNormal'>Books</a> for further reading)</p></div>
           </div>
         </li>
       
@@ -1139,7 +1193,7 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
           <div class='mb-4 overflow-auto text-sm text-gray-500'>
             <!-- TODO: How to style the backlinks list item element? Or render each separately?
                     -->
-            <div><a href='books' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkBranch'>Recommended Book List</a></div>
+            <div><a href='books' class='text-gray-600 font-bold hover:bg-gray-50' data-wikilink-type='WikiLinkBranch'>Books</a></div>
           </div>
         </li>
       
