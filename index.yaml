@@ -3,9 +3,9 @@ page:
   siteName: PKM Zettelkasten
   description: |
     Zettelkasten Wiki for r/Zettelkasten subreddit.
-    
+
 template:
-  theme: yellow
+  theme: blue
   iconUrl: static/favicon.png
   sidebar:
     collapsed: false

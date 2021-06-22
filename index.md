@@ -3,8 +3,8 @@
 ## Welcome
 This is a public wiki serving as a resource for the [[zettelkasten]]# method and other Personal Knowledge Management (PKM) systems.
 
-:::{.ui .floating .message}
-:::{.header}
+:::{.sticky-note}
+:::{.text-2xl .font-bold}
 Get started!
 :::
 - [[zettelkasten]]# - View all categories
@@ -22,4 +22,4 @@ Get started!
 * [Full revision history in git](https://github.com/Kuratoro/zk.zettel.page/commits/master)
 * [View all the notes using the Index](@index)
 * Notes can be tagged
-* Shows uplinks and backlinks
+* Shows backlinks
