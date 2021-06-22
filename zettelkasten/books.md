@@ -1,6 +1,7 @@
 ---
 title: Recommended Book List
 date: 2020-05-14
+slug: books
 ---
 
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by Sönke Ahrens (2017)](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y). The only English-language book specifically on the Zettelkasten method.

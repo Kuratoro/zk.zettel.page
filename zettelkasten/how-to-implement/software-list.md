@@ -1,5 +1,6 @@
 ---
 date: 2020-05-14
+slug: software-list
 ---
 
 # Software list

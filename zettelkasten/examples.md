@@ -1,6 +1,7 @@
 ---
 title: Examples of Zettelkasten/ Wikis/ Digital Gardens
 date: 2020-05-14
+slug: examples
 ---
 
 Ordered alphabetically

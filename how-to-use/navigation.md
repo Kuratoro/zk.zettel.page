@@ -1,5 +1,6 @@
 ---
 title: How to navigate
+slug: navigation
 ---
 
 We hope that you find it pretty straightforward to navigate the site. 

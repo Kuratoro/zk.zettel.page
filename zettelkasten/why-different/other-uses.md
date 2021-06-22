@@ -1,6 +1,7 @@
 ---
 title: Other uses and related systems
 date: 2020-06-02
+slug: other-uses
 ---
 
 ## Other uses

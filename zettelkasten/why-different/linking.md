@@ -1,6 +1,7 @@
 ---
 title: Linking
 date: 2020-05-31
+slug: linking
 ---
 
 Specifics on linking notes.

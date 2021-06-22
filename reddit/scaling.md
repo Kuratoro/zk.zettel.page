@@ -1,5 +1,6 @@
 ---
 tags: [reddit]
+slug: scaling
 ---
 
 # Large notebooks

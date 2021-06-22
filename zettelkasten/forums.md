@@ -1,6 +1,7 @@
 ---
 title: Discussion Forums
 date: 2020-05-14
+slug: forums
 ---
 
 - [Zettelkasten.de forum](https://forum.zettelkasten.de/) - forum at website by creators of The Archive (MacOS) Zettelkasten software

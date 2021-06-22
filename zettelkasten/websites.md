@@ -1,6 +1,7 @@
 ---
 title: Websites
 date: 2020-06-01
+slug: websites
 ---
 
 ## Websites (ordered alphabetically)

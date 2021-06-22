@@ -1,3 +1,6 @@
+---
+slug: how-to-edit
+---
 # How to edit this site
 
 ## Edit existing pages

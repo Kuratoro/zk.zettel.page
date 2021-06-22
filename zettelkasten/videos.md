@@ -1,5 +1,6 @@
 ---
 title: Videos
+slug: videos
 ---
 
 ## Youtube Channels

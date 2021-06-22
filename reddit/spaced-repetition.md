@@ -1,6 +1,7 @@
 ---
 date: 2020-10-23T15:36
 tags: [reddit]
+slug: spaced-repetition
 ---
 
 # Spaced repetition

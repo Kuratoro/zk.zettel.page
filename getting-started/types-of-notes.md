@@ -1,5 +1,6 @@
 ---
 date: 2020-05-14
+slug: types-of-notes
 tags:
   - getting-started
 ---

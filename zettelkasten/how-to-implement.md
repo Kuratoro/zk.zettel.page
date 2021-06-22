@@ -1,6 +1,7 @@
 ---
 title: How to implement
 date: 2020-05-14
+slug: how-to-implement
 ---
 
 * [[software-list]]# - reviews and resources on ZK-related software

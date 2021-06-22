@@ -1,6 +1,7 @@
 ---
 title: Why is it different from taking regular notes?
 date: 2020-05-14
+slug: why-different
 ---
 
 You may have taken and accumulated many notes in your lifetime, so what makes the Zettelkasten system different?

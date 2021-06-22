@@ -1,6 +1,7 @@
 ---
 title: Software comparison
 date: 2020-05-14
+slug: software-comparison
 ---
 
 Below is a handy chart comparing the different software out there that can be used to implement the ZK method. For a handy list, see [[software-list]].

@@ -1,6 +1,7 @@
 ---
 title: Online Articles
 date: 2020-05-22
+slug: articles
 ---
 
 ## Collections

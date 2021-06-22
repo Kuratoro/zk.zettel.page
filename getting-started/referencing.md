@@ -1,6 +1,7 @@
 ---
 title: Referencing
 date: 2020-05-30
+slug: referencing
 ---
 You collected a whole bunch of articles and resources while reading, now, how can you organize them all?
 
