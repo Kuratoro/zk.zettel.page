@@ -16,11 +16,7 @@
       <base href='/' />
       <link href='static/favicon.png' rel='icon' />
     
-    <!-- Syntax highlighting 
-TODO: Cache these in default layer, and use them directly, rather than relying on CDN.
---><link href='https://cdn.jsdelivr.net/npm/prismjs@1.23.0/themes/prism-tomorrow.css' rel='stylesheet' />
-<script src='https://cdn.jsdelivr.net/combine/npm/prismjs@1.23.0/prism.min.js,npm/prismjs@1.23.0/plugins/autoloader/prism-autoloader.min.js'></script>
-
+    <!-- Add anything that should go in <head> of these routes here -->
   
   <!-- CSSSTART -->
   <script type='text/javascript' src='https://cdn.jsdelivr.net/combine/npm/twind/twind.umd.min.js,npm/twind/observe/observe.umd.min.js'></script><script type='text/javascript'>// Be silent to avoid complaining about non-tailwind classes
@@ -36,25 +32,11 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
 
 <!-- DoNotFormat -->
 
-<body class='overflow-y-scroll bg-blue-50'>
+<body class='overflow-y-scroll bg-gray-400'>
   
     <div class='container mx-auto'>
 
-      <div id='site-header' class='grid grid-cols-12'>
-        <div id='site-logo' class='hidden col-span-3 mt-2 space-x-2 md:block'>
-          <div class='flex items-end justify-start h-full'>
-            <a href=''>
-              
-                
-                  <img class='z-50 h-20 transition transform hover:scale-110 hover:opacity-80' src='static/favicon.png' />
-                
-              
-            </a>
-          </div>
-        </div>
-        <div class='col-span-12 md:col-span-9'>
-
-          
+      
   <nav id='breadcrumbs' class='w-full text-gray-700 md:hidden'>
     <div class='flex justify-left'>
       <div class='w-full px-2 py-2 bg-gray-50'>
@@ -84,73 +66,45 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
   </nav>
 
 
-<h1 class='flex items-end justify-center pl-2 md:pl-0 md:h-full mt-2 text-5xl font-extrabold text-blue-900 md:mt-0 md:text-6xl md:justify-start '>
-  <a class='z-40 tracking-tighter md:pl-4'>
-    Videos
-  </a>
-</h1>
-        </div>
-      </div>
-
-      <div class='grid grid-cols-12 md:shadow-2xl md:rounded-lg md:mb-8'>
+      <div class='flex bg-gray-50 md:mt-8 md:shadow-2xl md:mb-8'>
         <!-- Sidebar column -->
-        <nav id='sidebar' class='hidden leading-relaxed md:block md:col-span-3 md:sticky md:top-0 md:h-full bg-gray-50'>
+        <nav id='sidebar' class='hidden leading-relaxed md:block md:sticky md:top-0 md:h-full md:max-w-xs'>
+          <div class='px-2 py-2 text-gray-800'>
 
-          <div class='px-2 pt-1 text-gray-800'>
             <div id='indexing-links' class='flex flex-row float-right p-2 space-x-2 text-gray-500'>
-              <a href='@tags' title='View tags'>
+              <a href='-/tags' title='View tags'>
                 <svg class='w-5 h-5 hover:text-blue-700' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
                   <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z'>
                   </path>
                 </svg>
               </a>
-              <a href='@index' title='Expand full tree'>
+              <a href='-/index' title='Expand full tree'>
                 <svg class='w-5 h-5 hover:text-blue-700' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
                   <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4'>
                   </path>
                 </svg>
               </a>
             </div>
-            
-              <!-- Variable bindings for this tree-->
 
-  
-    
-      
-    
-    
+            <div id='site-logo' class='pl-2'>
+              <div class='flex items-center my-2 space-x-2 justify-left'>
+                <a href='' title='Go to Home'>
+                  
+                    
+                      <!-- The style width attribute here is to prevent huge
+                      icon from displaying at those rare occasions when Tailwind
+                      hasn't kicked in immediately on page load 
+                      -->
+                      <img style='width: 1rem;' class='w-4 h-4 transition transform hover:scale-110 hover:opacity-80' src='static/favicon.png' />
+                    
+                  
+                </a>
+                <a class='font-bold truncate' title='Go to Home' href=''>
+                  Home
+                </a>
+              </div>
+            </div>
 
-
-
-  
-
-
-<!-- Rendering of this tree -->
-<div class='pl-2'>
-  <!-- Node's rootLabel-->
-  <div class='flex items-center my-2 space-x-2 justify-left'>
-    
-    
-      <svg class='w-4 h-4 flex-shrink-0 inline' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
-        <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z'>
-        </path>
-      </svg>
-    
-  
-    <a class='hover:underline truncate' title='Contact' href='contact'>
-      Contact
-    </a>
-    
-      
-  </div>
-
-  <!-- Node's children forest, displayed only on active trees
-    TODO: Use <details> to toggle visibility?
-  -->
-  
-    
-  
-</div>
             
               <!-- Variable bindings for this tree-->
 
@@ -374,8 +328,8 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
       </svg>
     
   
-    <a class='hover:underline truncate' title='How to edit this site' href='how-to-edit'>
-      How to edit this site
+    <a class='hover:underline truncate' title='How to navigate' href='navigation'>
+      How to navigate
     </a>
     
       
@@ -414,8 +368,8 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
       </svg>
     
   
-    <a class='hover:underline truncate' title='How to navigate' href='navigation'>
-      How to navigate
+    <a class='hover:underline truncate' title='How to edit this site' href='how-to-edit'>
+      How to edit this site
     </a>
     
       
@@ -953,6 +907,46 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
   
     
       
+    
+    
+
+
+
+  
+
+
+<!-- Rendering of this tree -->
+<div class='pl-2'>
+  <!-- Node's rootLabel-->
+  <div class='flex items-center my-2 space-x-2 justify-left'>
+    
+    
+      <svg class='w-4 h-4 flex-shrink-0 inline' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+        <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z'>
+        </path>
+      </svg>
+    
+  
+    <a class='hover:underline truncate' title='Contact' href='contact'>
+      Contact
+    </a>
+    
+      
+  </div>
+
+  <!-- Node's children forest, displayed only on active trees
+    TODO: Use <details> to toggle visibility?
+  -->
+  
+    
+  
+</div>
+            
+              <!-- Variable bindings for this tree-->
+
+  
+    
+      
       
     
 
@@ -1108,24 +1102,127 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
   
 </div>
             
+
           </div>
         </nav>
+
         <!-- Main body column -->
-        <div class='col-span-12 px-0 pt-3 bg-white md:col-span-9 '>
-          <main class='px-2 md:pl-4'>
+        <div class='w-full bg-white'>
+          <main class='px-4 py-4'>
+            <h1 class='flex items-end justify-center mb-4 p-3 bg-blue-100 text-5xl font-extrabold text-black rounded'>
+  <a class='z-40 tracking-tighter '>
+    Videos
+  </a>
+</h1>
             <article class='overflow-auto'>
   <!-- What goes in this file will appear on top of note body-->
-  <h2 id='youtube-channels' class='mt-4 mb-4 text-4xl font-bold text-gray-700'>Youtube Channels</h2><ul class='ml-4 space-y-1 list-disc list-inside'><li>Zettelkasten.de’s <a href='https://www.youtube.com/channel/UCgHNEmlSVZMEQggrHTNKmMQ' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Youtube channel</a></li></ul><h2 id='general-videos-arranged-by-date' class='mt-4 mb-4 text-4xl font-bold text-gray-700'>General videos (arranged by date)</h2><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://youtu.be/eMJGKZ7n9hE' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Understanding Zettelkasten Method: How to make the most out of your slip-box</a> - Eva Thomas, 2020, 11 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/eMJGKZ7n9hE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://youtu.be/vPjTyn0j1OY' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>How My Cheap ZettelKasten Works</a> - Christian Adleta, 2020, 14 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/vPjTyn0j1OY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://youtu.be/CraQJjBH4Qs' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>ZETTELKASTEN: How to build your own?</a> - Mukul Khanna, 2020, 6 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/CraQJjBH4Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://youtu.be/XUltI4v_UU4' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Organize Your Knowledge with Zettelkasten</a> - trms, 2020, 8 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/XUltI4v_UU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://youtu.be/7TnUNN39NBU' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Zettelkasten: 3 More Tips</a> - trms, 2020, 4 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/7TnUNN39NBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.youtube.com/watch?v=rOSZOCoqOo8.' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Zettelkasten Learning Method: Simply Explained</a> - Shu Omi, 2020, 4 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/rOSZOCoqOo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.youtube.com/watch?v=wFZHuWLA09M' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>ZETTELKASTEN METHOD (Explained Clearly with Examples and Software)</a> - Mike and Matty, 2020, 6 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/wFZHuWLA09M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.youtube.com/watch?v=_3pkDDr5p3o' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Zettelkasten-Based Personal Knowledge Management (PKM)</a> - André Chaperon, 2020, 25 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/_3pkDDr5p3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.youtube.com/watch?v=kXnR7qX3BDc' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Interview and Q&A with Sönke Ahrens on How to Take Smart Notes</a> - Tiago Forte, 2020, 56 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/kXnR7qX3BDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.youtube.com/watch?v=c5Tst3-zcWI&t=675s' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>THE ZETTELKASTEN MANIFESTO : What is a Zettelkasten?</a> - Zettlr, 2019, 22 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/c5Tst3-zcWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><ul class='ml-4 space-y-1 list-disc list-inside'><li><a href='https://www.youtube.com/watch?v=98EFiAxCLuY' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Duly Noted – Dr. Sönke Ahrens, Author, How to Take Smart Notes – Finding Efficiency in Note Taking</a> - Finding Genius Podcast, 2019, 39 min</li></ul><div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/98EFiAxCLuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h2 id='youtube-channels' class='inline-block mt-6 mb-4 text-4xl font-bold text-gray-700 border-b-2'>Youtube Channels</h2>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          Zettelkasten.de’s <a href='https://www.youtube.com/channel/UCgHNEmlSVZMEQggrHTNKmMQ' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Youtube channel</a>
+        </li>
+      
+    </ul>
+  <h2 id='general-videos-arranged-by-date' class='inline-block mt-6 mb-4 text-4xl font-bold text-gray-700 border-b-2'>General videos (arranged by date)</h2>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://youtu.be/eMJGKZ7n9hE' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Understanding Zettelkasten Method: How to make the most out of your slip-box</a> - Eva Thomas, 2020, 11 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/eMJGKZ7n9hE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://youtu.be/vPjTyn0j1OY' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>How My Cheap ZettelKasten Works</a> - Christian Adleta, 2020, 14 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/vPjTyn0j1OY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://youtu.be/CraQJjBH4Qs' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>ZETTELKASTEN: How to build your own?</a> - Mukul Khanna, 2020, 6 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/CraQJjBH4Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://youtu.be/XUltI4v_UU4' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Organize Your Knowledge with Zettelkasten</a> - trms, 2020, 8 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/XUltI4v_UU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://youtu.be/7TnUNN39NBU' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Zettelkasten: 3 More Tips</a> - trms, 2020, 4 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/7TnUNN39NBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://www.youtube.com/watch?v=rOSZOCoqOo8.' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Zettelkasten Learning Method: Simply Explained</a> - Shu Omi, 2020, 4 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/rOSZOCoqOo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://www.youtube.com/watch?v=wFZHuWLA09M' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>ZETTELKASTEN METHOD (Explained Clearly with Examples and Software)</a> - Mike and Matty, 2020, 6 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/wFZHuWLA09M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://www.youtube.com/watch?v=_3pkDDr5p3o' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Zettelkasten-Based Personal Knowledge Management (PKM)</a> - André Chaperon, 2020, 25 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/_3pkDDr5p3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://www.youtube.com/watch?v=kXnR7qX3BDc' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Interview and Q&A with Sönke Ahrens on How to Take Smart Notes</a> - Tiago Forte, 2020, 56 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/kXnR7qX3BDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://www.youtube.com/watch?v=c5Tst3-zcWI&t=675s' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>THE ZETTELKASTEN MANIFESTO : What is a Zettelkasten?</a> - Zettlr, 2019, 22 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/c5Tst3-zcWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    <ul class='my-3 ml-4 space-y-1 list-disc list-inside'>
+      
+        <li>
+          <a href='https://www.youtube.com/watch?v=98EFiAxCLuY' class='text-blue-600 hover:underline' target='_blank' rel='noopener'>Duly Noted – Dr. Sönke Ahrens, Author, How to Take Smart Notes – Finding Efficiency in Note Taking</a> - Finding Genius Podcast, 2019, 39 min
+        </li>
+      
+    </ul>
+  <div xmlhtmlRaw><iframe width="560" height="315" src="https://www.youtube.com/embed/98EFiAxCLuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </article>
             
@@ -1156,11 +1253,11 @@ window.emaTwindObs = twindObserve.observe(document.documentElement);</script>
           </main>
         </div>
       </div>
-      <footer class='flex items-center justify-center mt-2 mb-8 space-x-4 text-center text-gray-500'>
+      <footer class='flex items-center justify-center mt-2 mb-8 space-x-4 text-center text-light-600'>
   <div class='flex space-x-2'>
     <div>Generated by <a class='font-bold' href='https://note.ema.srid.ca/'>Emanote</a>
       <span class='font-mono text-sm tracking-tighter'>
-        0.1.13.0
+        0.1.21.1
       </span>
     </div>
   </div>
