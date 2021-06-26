@@ -5,7 +5,6 @@ slug: books
 ---
 
 Sönke Ahrens [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y)
-: The only English-language book specifically on the Zettelkasten method.
 :  - Book reviews:
 :    - [Book Review: How to Take Smart Notes by Sönke Ahrens](https://jonathanlorimer.dev/posts/smart-notes-review.html)
 :    - [How to take smart notes (Ahrens, 2017)](https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017)
