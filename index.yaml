@@ -6,6 +6,7 @@ page:
 
 template:
   theme: blue
+  urlStrategy: pretty
   iconUrl: static/favicon.png
   sidebar:
     collapsed: false
