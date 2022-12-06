@@ -24,4 +24,4 @@ Get started!
 * Notes can be tagged
 * Shows backlinks
 
-[index]: -/index
+[index]: -/all

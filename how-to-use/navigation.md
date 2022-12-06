@@ -13,7 +13,7 @@ The sidebar is visible on desktop browser. It is to the left side, and displays 
 
 ## Index
 
-Both the sidebar and the footer contains a link to [@index](@index) of the site, that displays the full tree of notes.
+Both the sidebar and the footer contains a link to [@index](-/all) of the site, that displays the full tree of notes.
 
 ## Backlinks
 
